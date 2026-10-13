@@ -2533,8 +2533,8 @@
       "rebuild": {
         "version": 2,
         "normalized": true,
-        "ui": "custom ScreenGui",
-        "sha256": "c58aea40cf692b1049493c88adde57bff470a8cff3ab3c77d4b51961ccc26a70"
+        "ui": "Cachos Studio V3.1 / runtime adapter",
+        "sha256": "a38a71efeffba267bb4cd8acdb71bad194f7ba4604aa370fedcb74a1e938429b"
       }
     },
     {
@@ -4108,8 +4108,8 @@
       "rebuild": {
         "version": 2,
         "normalized": true,
-        "ui": "custom ScreenGui",
-        "sha256": "c052737f29ca1f2b646c74cc15fdbab1b0ee423996a23f84cab3de1ce125315b"
+        "ui": "Cachos Studio V3.1 / runtime adapter",
+        "sha256": "935a82900965bf519dfc2e722dde015c475cc91ce13d1a5446f7d57cadda14da"
       }
     },
     {
@@ -5372,5 +5372,7 @@
         "sha256": "234edee6d993d3c18f1d19501c43f43625f970506f053a5ed62863b5ecddb769"
       }
     }
-  ]
+  ],
+  "visibility": "public",
+  "raw_base": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/"
 }

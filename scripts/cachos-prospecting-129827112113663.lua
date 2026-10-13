@@ -22930,9 +22930,9 @@ function fns.dwb_164_22()
         end
         error(string.format("[Ouroboros] could not load %s: %s", bjb, dny), 0)
     end
-    duY = dvf("Library.lua")
-    du6 = dvf("addons/ThemeManager.lua")
-    du4 = dvf("addons/SaveManager.lua")
+    duY = (getgenv and getgenv() or shared).CachosStudioModules.Library()
+    du6 = (getgenv and getgenv() or shared).CachosStudioModules.ThemeManager()
+    du4 = (getgenv and getgenv() or shared).CachosStudioModules.SaveManager()
     Toggles = duY.Toggles
     Options = duY.Options
     bTD(fns.dwb_123, duY)

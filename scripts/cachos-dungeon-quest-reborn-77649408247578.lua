@@ -400,3 +400,8 @@ end)
 
 TweenService:Create(Blur, TweenInfo.new(0.3), {Size = 20}):Play()
 TweenService:Create(Backdrop, TweenInfo.new(0.25), {BackgroundTransparency = 0.6}):Play()
+
+do
+    local runtime = (getgenv and getgenv() or shared).CachosStudioRuntime
+    runtime:MountNotice(ScreenGui, MainFrame, "Dungeon Quest Reborn")
+end

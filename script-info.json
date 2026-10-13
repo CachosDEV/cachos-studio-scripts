@@ -1,0 +1,4280 @@
+[
+  {
+    "gameName": "+1 Anime Loot Upgrade",
+    "placeId": 92484997704115,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-anime-loot-upgrade-92484997704115.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Aura Per Click",
+    "placeId": 109509029034984,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-aura-per-click-109509029034984.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Backflip Keyboard Escape",
+    "placeId": 102553576537621,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-backflip-keyboard-escape-102553576537621.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Banana Monkey Destruction",
+    "placeId": 83256791430098,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-banana-monkey-destruction-83256791430098.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Chop Trees for Treasure",
+    "placeId": 110730550789828,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-chop-trees-for-treasure-110730550789828.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Clone Evolution",
+    "placeId": 120297898552393,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-clone-evolution-120297898552393.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Cut and Ride Pet",
+    "placeId": 78793646042773,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-cut-and-ride-pet-78793646042773.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Cut Grass Adventure",
+    "placeId": 90086669327265,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-cut-grass-adventure-90086669327265.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Dino Evolution",
+    "placeId": 103138601755519,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-dino-evolution-103138601755519.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 DMG FPS",
+    "placeId": 100753254401525,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-dmg-fps-100753254401525.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 DMG Per Revive",
+    "placeId": 110806816173057,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-dmg-per-revive-110806816173057.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Double Jump Bike Escape!",
+    "placeId": 74218191398494,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-double-jump-bike-escape-74218191398494.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Drain Water Per Click",
+    "placeId": 103883942725157,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-drain-water-per-click-103883942725157.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Drill Blocks for animals",
+    "placeId": 136327778829765,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-drill-blocks-for-animals-136327778829765.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Fart to Break Doors",
+    "placeId": 120285538222067,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-fart-to-break-doors-120285538222067.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Fat Per Click",
+    "placeId": 128329680321338,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-fat-per-click-128329680321338.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Fish Per Click",
+    "placeId": 138831961498372,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-fish-per-click-138831961498372.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Followers Per Click",
+    "placeId": 98695134949589,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-followers-per-click-98695134949589.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Football for Brainrots",
+    "placeId": 115564147666832,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-football-for-brainrots-115564147666832.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Fruit Samurai",
+    "placeId": 121143259662420,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-fruit-samurai-121143259662420.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Hack Per Click",
+    "placeId": 88968590411663,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-hack-per-click-88968590411663.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Heat Per Click",
+    "placeId": 95570822232841,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-heat-per-click-95570822232841.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Height Per Jump",
+    "placeId": 137202615981355,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-height-per-jump-137202615981355.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Horse Evolution",
+    "placeId": 107765897665486,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-horse-evolution-107765897665486.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Jump Crunchy ASMR Escape!",
+    "placeId": 83264774625004,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-jump-crunchy-asmr-escape-83264774625004.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Kitten Keyboard Escape",
+    "placeId": 94860588848140,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-kitten-keyboard-escape-94860588848140.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Lava Escape",
+    "placeId": 82460561886298,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-lava-escape-82460561886298.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Long Arm Toy Escape!",
+    "placeId": 74341114342499,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-long-arm-toy-escape-74341114342499.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Loot To Forge",
+    "placeId": 118805555015549,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-loot-to-forge-118805555015549.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Mog Evolution",
+    "placeId": 92648272637932,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-mog-evolution-92648272637932.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Muscle Evolution",
+    "placeId": 133007106457547,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-muscle-evolution-133007106457547.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Muscles for Prison Escape",
+    "placeId": 99468092262114,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-muscles-for-prison-escape-99468092262114.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Pickaxe Swing Escape",
+    "placeId": 82554996468034,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-pickaxe-swing-escape-82554996468034.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Poop Per Click",
+    "placeId": 81875183293545,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-poop-per-click-81875183293545.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Poor To Rich",
+    "placeId": 96003649748017,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-poor-to-rich-96003649748017.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Power Jujutsu Kaisen Evolution",
+    "placeId": 73768088906246,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-power-jujutsu-kaisen-evolution-73768088906246.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Power Per Click",
+    "placeId": 74889851913797,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-power-per-click-74889851913797.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Shrink per Step",
+    "placeId": 91695551099066,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-shrink-per-step-91695551099066.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Skinny Per Step",
+    "placeId": 128448883585036,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-skinny-per-step-128448883585036.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Slash Per Click!",
+    "placeId": 101558013317432,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-slash-per-click-101558013317432.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 SMASH Walls For Anime Characters!",
+    "placeId": 76196195821497,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-smash-walls-for-anime-characters-76196195821497.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Speed Evolve",
+    "placeId": 83569851223739,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-speed-evolve-83569851223739.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Speed Monkey Escape",
+    "placeId": 114697347887839,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-speed-monkey-escape-114697347887839.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Speed Ninja Keyboard Escape",
+    "placeId": 90740816183375,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-speed-ninja-keyboard-escape-90740816183375.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Speed Plane Escape",
+    "placeId": 114688126725619,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-speed-plane-escape-114688126725619.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Speedster Escape",
+    "placeId": 85065221510105,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-speedster-escape-85065221510105.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Spider Evolution",
+    "placeId": 135830878717711,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-spider-evolution-135830878717711.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Spinjitsu Escape",
+    "placeId": 131910189515331,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-spinjitsu-escape-131910189515331.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Stand Power Evolution",
+    "placeId": 82598548574073,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-stand-power-evolution-82598548574073.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Stone Skipping",
+    "placeId": 111543903102439,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-stone-skipping-111543903102439.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Strength for Eggs",
+    "placeId": 98610101874791,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-strength-for-eggs-98610101874791.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Strength to Grow Your Arm",
+    "placeId": 86259628805375,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-strength-to-grow-your-arm-86259628805375.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Superhero Evolution",
+    "placeId": 97824450589417,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-superhero-evolution-97824450589417.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Sword Fighting Escape",
+    "placeId": 71132391335247,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-sword-fighting-escape-71132391335247.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Sword vs Anime",
+    "placeId": 72600023868608,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-sword-vs-anime-72600023868608.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Tall to Escape",
+    "placeId": 140334945309841,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-tall-to-escape-140334945309841.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 TNT Mining",
+    "placeId": 101304595834078,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-tnt-mining-101304595834078.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Tongue Escape",
+    "placeId": 122245938604556,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-tongue-escape-122245938604556.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Web Swing Escape",
+    "placeId": 110668201954727,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-web-swing-escape-110668201954727.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Weight Escape",
+    "placeId": 134129939916744,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-weight-escape-134129939916744.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Wings for Brainrots",
+    "placeId": 84332574190497,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-wings-for-brainrots-84332574190497.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "+1 Wings For Eggs",
+    "placeId": 80242821185181,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-1-wings-for-eggs-80242821185181.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "2omething evil will happen",
+    "placeId": 16991287194,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-2omething-evil-will-happen-16991287194.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "50 Player BINGO!",
+    "placeId": 131479356121251,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-50-player-bingo-131479356121251.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Age Evolution Tycoon",
+    "placeId": 96469185605358,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-age-evolution-tycoon-96469185605358.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Airport Tycoon",
+    "placeId": 138486812747835,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-airport-tycoon-138486812747835.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Astral Simulator",
+    "placeId": 102072869879193,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-astral-simulator-102072869879193.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Card Farm",
+    "placeId": 125039473548047,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-card-farm-125039473548047.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Dice",
+    "placeId": 113290951185459,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-dice-113290951185459.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Expeditions",
+    "placeId": 84515722934860,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-expeditions-84515722934860.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Girl Paint by Numbers",
+    "placeId": 129300814231343,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-girl-paint-by-numbers-129300814231343.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Jackpot",
+    "placeId": 117616339044619,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-jackpot-117616339044619.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Overseer",
+    "placeId": false,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-overseer.lua",
+    "variant": false,
+    "enabled": false,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime RNG Defense",
+    "placeId": 104693964860826,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-rng-defense-104693964860826.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Souls",
+    "placeId": 118884500321949,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-souls-118884500321949.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime Squadron",
+    "placeId": 71132543521245,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-squadron-71132543521245.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anime War RNG",
+    "placeId": 79908803570376,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anime-war-rng-79908803570376.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Anomaly Garden",
+    "placeId": 114302935980927,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-anomaly-garden-114302935980927.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Aura For Brainrots",
+    "placeId": 122526789002601,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-aura-for-brainrots-122526789002601.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Automate a Restaurant",
+    "placeId": 101670277171204,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-automate-a-restaurant-101670277171204.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Backflip for Animals!",
+    "placeId": 88611017452341,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-backflip-for-animals-88611017452341.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Backrooms Simulator",
+    "placeId": 126061186342944,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-backrooms-simulator-126061186342944.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Basketball Dynasty",
+    "placeId": 91696807303847,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-basketball-dynasty-91696807303847.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "BE A FISH BAIT! SCI-FI UPD",
+    "placeId": 99702578544768,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-be-a-fish-bait-sci-fi-upd-99702578544768.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Be Monkey For Brainrots!",
+    "placeId": 76984077812388,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-be-monkey-for-brainrots-76984077812388.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Be The Final Boss",
+    "placeId": 140302982046391,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-be-the-final-boss-140302982046391.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Beat the Anime Boss!",
+    "placeId": 129216769649527,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-beat-the-anime-boss-129216769649527.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Become a Billionaire",
+    "placeId": 90704250333473,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-become-a-billionaire-90704250333473.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Bee ReMasters",
+    "placeId": false,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-bee-remasters.lua",
+    "variant": false,
+    "enabled": false,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Bid for Anime!",
+    "placeId": 87274635966213,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-bid-for-anime-87274635966213.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Bid For Soccer Cards!",
+    "placeId": 73578698401320,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-bid-for-soccer-cards-73578698401320.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Blow up Lucky Blocks For Cars",
+    "placeId": 77084002576266,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-blow-up-lucky-blocks-for-cars-77084002576266.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Bomb Fishing!",
+    "placeId": 118677256126351,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-bomb-fishing-118677256126351.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Brainrot Card Battles",
+    "placeId": 124124395449044,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-brainrot-card-battles-124124395449044.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Brainrot Sniper",
+    "placeId": 95223801959482,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-brainrot-sniper-95223801959482.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Break an Egg!",
+    "placeId": 128683790553857,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-break-an-egg-128683790553857.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Break For Anime!",
+    "placeId": 83337738588990,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-break-for-anime-83337738588990.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Break Tape For Brainrots",
+    "placeId": 104339804279870,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-break-tape-for-brainrots-104339804279870.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Break Walls for Brainrots!",
+    "placeId": 123708462523153,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-break-walls-for-brainrots-123708462523153.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "BreakDoor",
+    "placeId": 119004860768199,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-breakdoor-119004860768199.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build a Base and Steal",
+    "placeId": 132016691802922,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-base-and-steal-132016691802922.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build a Bee Swarm",
+    "placeId": 113398232239418,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-bee-swarm-113398232239418.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build A Cart",
+    "placeId": 127590941940388,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-cart-127590941940388.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build A Clone Obby",
+    "placeId": 136871790892566,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-clone-obby-136871790892566.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build a Garden Tower",
+    "placeId": 115035699922620,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-garden-tower-115035699922620.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build A Golem!",
+    "placeId": 78091651370612,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-golem-78091651370612.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build a Gun Army",
+    "placeId": 134162299584012,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-gun-army-134162299584012.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build a Keyboard",
+    "placeId": 91679585668032,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-keyboard-91679585668032.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build A Pet Factory",
+    "placeId": 135729108619936,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-pet-factory-135729108619936.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build A Solar Farm",
+    "placeId": 89790257708758,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-solar-farm-89790257708758.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build a Zoo",
+    "placeId": 105555311806207,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-a-zoo-105555311806207.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build an AI",
+    "placeId": 84637477108843,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-an-ai-84637477108843.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build An Ore Farm",
+    "placeId": 103923778951081,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-an-ore-farm-103923778951081.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build An Ore Farm",
+    "placeId": 80742451189972,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-an-ore-farm-80742451189972.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build Base to Survive VERITY",
+    "placeId": 116070952245255,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-base-to-survive-verity-116070952245255.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build Golems and Fight",
+    "placeId": 101145494627874,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-golems-and-fight-101145494627874.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Build the Pyramid!",
+    "placeId": 123720558354386,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-the-pyramid-123720558354386.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "BUILD your Butterfly Garden",
+    "placeId": 126003539836478,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-build-your-butterfly-garden-126003539836478.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Cake Mountain",
+    "placeId": 83733952151811,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-cake-mountain-83733952151811.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Capybaras VS Plants",
+    "placeId": 104973076655377,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-capybaras-vs-plants-104973076655377.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Cars VS Tape",
+    "placeId": 98393605725180,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-cars-vs-tape-98393605725180.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Carve Wood!",
+    "placeId": 82712304391069,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-carve-wood-82712304391069.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Case Paradise",
+    "placeId": 118637423917462,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-case-paradise-118637423917462.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Catch 1 Billion Ducks",
+    "placeId": 100293509865504,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-catch-1-billion-ducks-100293509865504.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Catch a Monster",
+    "placeId": 98664161516921,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-catch-a-monster-98664161516921.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Catch And Tame!",
+    "placeId": 96645548064314,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-catch-and-tame-96645548064314.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Catch Dragons To Defend",
+    "placeId": 102392235728099,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-catch-dragons-to-defend-102392235728099.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Chicken Farm",
+    "placeId": 137233438285284,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-chicken-farm-137233438285284.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Choose the Stronger Anime!",
+    "placeId": 111801263516291,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-choose-the-stronger-anime-111801263516291.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Claw Fishing",
+    "placeId": 128931272139211,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-claw-fishing-128931272139211.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Clean all the Leaves",
+    "placeId": 92637789841354,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-clean-all-the-leaves-92637789841354.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Clean the WORLD!",
+    "placeId": 105767799784652,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-clean-the-world-105767799784652.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Clean Your Keycaps",
+    "placeId": 82745432464897,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-clean-your-keycaps-82745432464897.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Clicker Simulator!",
+    "placeId": 134719268825886,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-clicker-simulator-134719268825886.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Cliff Mansion Tycoon",
+    "placeId": 88015023779741,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-cliff-mansion-tycoon-88015023779741.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Climb and Drop a Lucky Block",
+    "placeId": 96401370703274,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-climb-and-drop-a-lucky-block-96401370703274.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Climb Waterslide and Slide",
+    "placeId": 139617346573330,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-climb-waterslide-and-slide-139617346573330.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Clone to Steal Eggs",
+    "placeId": 76943966208523,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-clone-to-steal-eggs-76943966208523.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Coach a Fighter!",
+    "placeId": 111517697993641,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-coach-a-fighter-111517697993641.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Coin Flip",
+    "placeId": 99416896791343,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-coin-flip-99416896791343.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Collect 1 Million Items",
+    "placeId": 133363783004873,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-collect-1-million-items-133363783004873.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Collect Cars and Race",
+    "placeId": 120579221585812,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-collect-cars-and-race-120579221585812.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Collect The Alphabet",
+    "placeId": 127103413498148,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-collect-the-alphabet-127103413498148.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Cook & Sell!",
+    "placeId": 106131416903029,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-cook-sell-106131416903029.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Cowboy DUELS",
+    "placeId": 131103239963274,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-cowboy-duels-131103239963274.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Cows RNG",
+    "placeId": 130190834497309,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-cows-rng-130190834497309.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Cultivation Evermortal",
+    "placeId": 96179204081384,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-cultivation-evermortal-96179204081384.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Cut a Gem",
+    "placeId": 111773649152177,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-cut-a-gem-111773649152177.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Death Order Simon Says",
+    "placeId": 18666738837,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-death-order-simon-says-18666738837.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Deep Fishing",
+    "placeId": 132239307080610,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-deep-fishing-132239307080610.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Defeat Anime RNG",
+    "placeId": 92606991708989,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-defeat-anime-rng-92606991708989.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Defend my Ring Farm",
+    "placeId": 71245877600560,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-defend-my-ring-farm-71245877600560.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Defend ur base with anime",
+    "placeId": 105031185134358,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-defend-ur-base-with-anime-105031185134358.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Defend Your Animals!",
+    "placeId": 84210392569061,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-defend-your-animals-84210392569061.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Defend Your Plushie! TD",
+    "placeId": 116501341774429,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-defend-your-plushie-td-116501341774429.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Defend Your Treehouse!",
+    "placeId": 100641654440407,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-defend-your-treehouse-100641654440407.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Destroy a House",
+    "placeId": 125495618008505,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-destroy-a-house-125495618008505.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Dig & Clean",
+    "placeId": 83038462357724,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-dig-clean-83038462357724.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Dig Into Secrets",
+    "placeId": 119409763193569,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-dig-into-secrets-119409763193569.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Dino Hunters",
+    "placeId": 119031147890918,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-dino-hunters-119031147890918.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Don t Steal the Bobo",
+    "placeId": 120135584963579,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-don-t-steal-the-bobo-120135584963579.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "donation",
+    "placeId": false,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-donation.lua",
+    "variant": false,
+    "enabled": false,
+    "Modules": {}
+  },
+  {
+    "gameName": "Dragon Adventures",
+    "placeId": 3475397644,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-dragon-adventures-3475397644.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Dream Keyboard Escape",
+    "placeId": 129350834403009,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-dream-keyboard-escape-129350834403009.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Drill Blocks for Brainrots",
+    "placeId": 78177131121429,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-drill-blocks-for-brainrots-78177131121429.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Drill for Anime",
+    "placeId": 117459530347460,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-drill-for-anime-117459530347460.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Drive-Thru Empire",
+    "placeId": 88271351034688,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-drive-thru-empire-88271351034688.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Dungeon Lootr",
+    "placeId": 106484206883664,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-dungeon-lootr-106484206883664.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Dungeon Quest Reborn",
+    "placeId": 77649408247578,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-dungeon-quest-reborn-77649408247578.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {}
+  },
+  {
+    "gameName": "Endless Tower Defense",
+    "placeId": 109792243252518,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-endless-tower-defense-109792243252518.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Evomon",
+    "placeId": 134381727982611,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-evomon-134381727982611.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Farm a Fish",
+    "placeId": 91296119701853,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-farm-a-fish-91296119701853.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Farm an Island",
+    "placeId": 78769336859161,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-farm-an-island-78769336859161.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Farmers Market",
+    "placeId": 108479378357844,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-farmers-market-108479378357844.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Fill Water Tanks",
+    "placeId": 113461233137974,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-fill-water-tanks-113461233137974.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Final Swarm",
+    "placeId": 99521272836282,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-final-swarm-99521272836282.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Find the Needle!",
+    "placeId": 83238501165241,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-find-the-needle-83238501165241.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Fish an Anime RNG",
+    "placeId": 74729868188364,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-fish-an-anime-rng-74729868188364.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Fish an EGG from Rivers",
+    "placeId": 101672855717389,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-fish-an-egg-from-rivers-101672855717389.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Fish For Junk",
+    "placeId": 132010220154773,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-fish-for-junk-132010220154773.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "fisheggs",
+    "placeId": false,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-fisheggs.lua",
+    "variant": false,
+    "enabled": false,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Fishing Chef",
+    "placeId": 88599461076137,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-fishing-chef-88599461076137.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Fishing Wars",
+    "placeId": 106605020123719,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-fishing-wars-106605020123719.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Forge and Sell",
+    "placeId": 95942361689346,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-forge-and-sell-95942361689346.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Fruit Zombie Survival",
+    "placeId": 75290583112878,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-fruit-zombie-survival-75290583112878.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Garden Cleaner Evolution",
+    "placeId": 89907728898683,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-garden-cleaner-evolution-89907728898683.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Garden Horizons",
+    "placeId": 130594398886540,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-garden-horizons-130594398886540.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Get Fat to Break Tape",
+    "placeId": 75568173037446,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-get-fat-to-break-tape-75568173037446.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Greedy Brainrots",
+    "placeId": 83220467866714,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-greedy-brainrots-83220467866714.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Greedy Growers",
+    "placeId": 74102906764176,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-greedy-growers-74102906764176.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Grow a Beehive",
+    "placeId": 88891488197895,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-grow-a-beehive-88891488197895.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Grow a Chicken Fighter",
+    "placeId": 94640181989498,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-grow-a-chicken-fighter-94640181989498.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Grow It RNG",
+    "placeId": 78292727217500,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-grow-it-rng-78292727217500.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Hack A Business",
+    "placeId": 118055952211055,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-hack-a-business-118055952211055.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Hatch And Fry!",
+    "placeId": 124472567087489,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-hatch-and-fry-124472567087489.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Heavyweight Fishing",
+    "placeId": 98502499119821,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-heavyweight-fishing-98502499119821.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "helomybrotha",
+    "placeId": false,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-helomybrotha.lua",
+    "variant": false,
+    "enabled": false,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Heroes RNG",
+    "placeId": 108307565942574,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-heroes-rng-108307565942574.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Hit a Golf Ball",
+    "placeId": 138363592957250,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-hit-a-golf-ball-138363592957250.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Hole Fishing",
+    "placeId": 80158232099900,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-hole-fishing-80158232099900.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Hotel Tycoon",
+    "placeId": 16345149114,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-hotel-tycoon-16345149114.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Hunting Season",
+    "placeId": 5286116071,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-hunting-season-5286116071.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Idle Mafia Game",
+    "placeId": 73897506680154,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-idle-mafia-game-73897506680154.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Jump Beanstalk for Brainrots!",
+    "placeId": 82890021382517,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-jump-beanstalk-for-brainrots-82890021382517.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Jump for Animals!",
+    "placeId": 126870639873289,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-jump-for-animals-126870639873289.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Jump To Steal An Egg",
+    "placeId": 106383201135975,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-jump-to-steal-an-egg-106383201135975.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Jump To Steal SCP Monsters!",
+    "placeId": 123724279728430,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-jump-to-steal-scp-monsters-123724279728430.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Jump To Steal Slime",
+    "placeId": 131776241538171,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-jump-to-steal-slime-131776241538171.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Jump To Steal Soccer Players",
+    "placeId": 133294838637122,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-jump-to-steal-soccer-players-133294838637122.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Karinderya!",
+    "placeId": 116497287371701,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-karinderya-116497287371701.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Kawaii Anime RNG",
+    "placeId": 104263864475588,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-kawaii-anime-rng-104263864475588.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Kick an Uma",
+    "placeId": 74968636725538,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-kick-an-uma-74968636725538.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Kick Ball to Space",
+    "placeId": 127634932179327,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-kick-ball-to-space-127634932179327.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Lake Sipping",
+    "placeId": 119715129239364,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-lake-sipping-119715129239364.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Last Stop",
+    "placeId": 85967844112283,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-last-stop-85967844112283.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Launch A Nuke!",
+    "placeId": 132906917070002,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-launch-a-nuke-132906917070002.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Lift a Cube",
+    "placeId": 109530157755211,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-lift-a-cube-109530157755211.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Load The Truck!",
+    "placeId": 120491560796071,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-load-the-truck-120491560796071.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Lowball",
+    "placeId": 135512068353850,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-lowball-135512068353850.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Magnet Fishing",
+    "placeId": 83717725495693,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-magnet-fishing-83717725495693.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Make a Drill Farm",
+    "placeId": 79315121100812,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-make-a-drill-farm-79315121100812.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Make Hotsauce",
+    "placeId": 122391683154858,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-make-hotsauce-122391683154858.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Make Soccer Players",
+    "placeId": 78053126230950,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-make-soccer-players-78053126230950.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Mansion Tycoon",
+    "placeId": 12912731475,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-mansion-tycoon-12912731475.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge & Dig Simulator!",
+    "placeId": 74569490529875,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-dig-simulator-74569490529875.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge a Black Hole",
+    "placeId": 118605709428489,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-a-black-hole-118605709428489.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge a Dino",
+    "placeId": 84546345526935,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-a-dino-84546345526935.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge a Mob!",
+    "placeId": 132097599643482,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-a-mob-132097599643482.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge a Nuke!",
+    "placeId": 128784467030899,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-a-nuke-128784467030899.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge a Spinner!",
+    "placeId": 101396571928321,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-a-spinner-101396571928321.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge a Squishy",
+    "placeId": 117740102453431,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-a-squishy-117740102453431.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge a Tank",
+    "placeId": 121582128546193,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-a-tank-121582128546193.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge an SCP",
+    "placeId": 70904050766278,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-an-scp-70904050766278.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge Anime Defender",
+    "placeId": 98168250096750,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-anime-defender-98168250096750.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge Plants vs Mobs",
+    "placeId": 111996161342573,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-plants-vs-mobs-111996161342573.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Merge Swords And Kill Zombies!",
+    "placeId": 122004026354492,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-merge-swords-and-kill-zombies-122004026354492.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Mine a Mountain",
+    "placeId": 125927821145949,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-mine-a-mountain-125927821145949.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Mine RNG",
+    "placeId": 84745252930301,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-mine-rng-84745252930301.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Mini War",
+    "placeId": 131346454575416,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-mini-war-131346454575416.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Missiles vs Cities",
+    "placeId": 112641748896693,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-missiles-vs-cities-112641748896693.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Motorcycle for Animals",
+    "placeId": 84403204002907,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-motorcycle-for-animals-84403204002907.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Mutant Plants Base Defense",
+    "placeId": 105954652742326,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-mutant-plants-base-defense-105954652742326.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Anime Mine",
+    "placeId": 79389059854988,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-anime-mine-79389059854988.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Billionaire Zoo",
+    "placeId": 129441589031863,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-billionaire-zoo-129441589031863.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Dancing Animals!",
+    "placeId": 102602309625870,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-dancing-animals-102602309625870.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Dealership",
+    "placeId": 115155881139305,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-dealership-115155881139305.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Dino Park!",
+    "placeId": 80701570784699,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-dino-park-80701570784699.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Farmers Garden",
+    "placeId": 83581240126371,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-farmers-garden-83581240126371.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Flower Shop",
+    "placeId": 93028168925975,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-flower-shop-93028168925975.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Fruit Blender",
+    "placeId": 90716098954183,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-fruit-blender-90716098954183.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Giant Farm",
+    "placeId": 98906051062892,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-giant-farm-98906051062892.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Grass Farm",
+    "placeId": 98073123711869,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-grass-farm-98073123711869.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Lucky Train",
+    "placeId": 122245209010944,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-lucky-train-122245209010944.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Moo Farm",
+    "placeId": 134807373415131,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-moo-farm-134807373415131.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Pet Farm",
+    "placeId": 83847197909679,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-pet-farm-83847197909679.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Seafood Stand",
+    "placeId": 72896199592423,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-seafood-stand-72896199592423.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Sword Empire",
+    "placeId": 108364799245223,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-sword-empire-108364799245223.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Timber Pets!",
+    "placeId": 111035930019117,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-timber-pets-111035930019117.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "My Toll Farm!",
+    "placeId": 96425088123775,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-my-toll-farm-96425088123775.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Oil Empire",
+    "placeId": 107095834793267,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-oil-empire-107095834793267.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Open Sea For Animals!",
+    "placeId": 88047783411976,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-open-sea-for-animals-88047783411976.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Pan The River",
+    "placeId": 102484409263550,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-pan-the-river-102484409263550.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Parkour Pandemic",
+    "placeId": 128718867767713,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-parkour-pandemic-128718867767713.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Penthouse Tycoon",
+    "placeId": 124943244212764,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-penthouse-tycoon-124943244212764.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Pet Forest",
+    "placeId": 83863726584027,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-pet-forest-83863726584027.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Pets Universe!",
+    "placeId": 74629631798007,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-pets-universe-74629631798007.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Pickaxe Tycoon",
+    "placeId": 73814003954154,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-pickaxe-tycoon-73814003954154.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua"
+    }
+  },
+  {
+    "gameName": "Pop a Balloon RNG",
+    "placeId": 108098130071760,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-pop-a-balloon-rng-108098130071760.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Pop Bubbles!",
+    "placeId": 72390882197205,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-pop-bubbles-72390882197205.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Power a City",
+    "placeId": 127475054933484,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-power-a-city-127475054933484.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Power Your City",
+    "placeId": 81549698024226,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-power-your-city-81549698024226.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Press a Keycap!",
+    "placeId": 128363460800653,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-press-a-keycap-128363460800653.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Project Aura RNG",
+    "placeId": 129619503633658,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-project-aura-rng-129619503633658.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Prospecting!",
+    "placeId": 129827112113663,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-prospecting-129827112113663.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Pull a Lucky Fish",
+    "placeId": 112781315318195,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-pull-a-lucky-fish-112781315318195.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Race for Eggs",
+    "placeId": 122278212262864,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-race-for-eggs-122278212262864.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Race Horses",
+    "placeId": 79475945127283,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-race-horses-79475945127283.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Raise an Anomaly",
+    "placeId": 71443883879110,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-raise-an-anomaly-71443883879110.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "RE Heads Please!",
+    "placeId": 113099333239841,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-re-heads-please-113099333239841.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Rebirth Frenzy",
+    "placeId": 122598478666085,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-rebirth-frenzy-122598478666085.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "REELED Shoot Fish!",
+    "placeId": 137783946150684,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-reeled-shoot-fish-137783946150684.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Rescue Animals!",
+    "placeId": 108454764166583,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-rescue-animals-108454764166583.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Ride A Pet",
+    "placeId": 124216119978534,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-ride-a-pet-124216119978534.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "RNG vs Fruit",
+    "placeId": 109123260298300,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-rng-vs-fruit-109123260298300.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll a Fisherman",
+    "placeId": 90920025162454,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-a-fisherman-90920025162454.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll A Gnome",
+    "placeId": 117539213094671,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-a-gnome-117539213094671.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll a Sorcerer",
+    "placeId": 77876346348868,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-a-sorcerer-77876346348868.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll a Spirit",
+    "placeId": 122719589673344,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-a-spirit-122719589673344.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll an Anime",
+    "placeId": 93999763241813,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-an-anime-93999763241813.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll an ARMY",
+    "placeId": 81043694560974,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-an-army-81043694560974.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll An Army!",
+    "placeId": 72216345408467,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-an-army-72216345408467.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll Anime & Fight",
+    "placeId": 115690665465501,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-anime-fight-115690665465501.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll Anime to Fight!",
+    "placeId": 107653945083776,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-anime-to-fight-107653945083776.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll for Anime!",
+    "placeId": 107706720875645,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-for-anime-107706720875645.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll For Avatar Items",
+    "placeId": 122854503601959,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-for-avatar-items-122854503601959.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll for Chiikawa !",
+    "placeId": 79237098587493,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-for-chiikawa-79237098587493.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll to Survive",
+    "placeId": 132508978828159,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-to-survive-132508978828159.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roll Your Army!",
+    "placeId": 83660368690441,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roll-your-army-83660368690441.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Roller for Animals!",
+    "placeId": 88910662712492,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-roller-for-animals-88910662712492.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "RUNAWAYS",
+    "placeId": 118418618261207,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-runaways-118418618261207.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Saber Simulator",
+    "placeId": 3823781113,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-saber-simulator-3823781113.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Sail For Eggs",
+    "placeId": 121443295737695,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-sail-for-eggs-121443295737695.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Save Animals!",
+    "placeId": 123822115505881,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-save-animals-123822115505881.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Save Your Cat",
+    "placeId": 119427438574114,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-save-your-cat-119427438574114.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Scale Slimy Fish",
+    "placeId": 82208825713916,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-scale-slimy-fish-82208825713916.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Sirius": "ui/Sirius.lua"
+    }
+  },
+  {
+    "gameName": "Sell Ores",
+    "placeId": 122572082932179,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-sell-ores-122572082932179.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Shuffle an Egg",
+    "placeId": 79226825467411,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-shuffle-an-egg-79226825467411.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Slap to Survive",
+    "placeId": 112796336189704,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-slap-to-survive-112796336189704.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Slime Card Collection",
+    "placeId": 98951612738714,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-slime-card-collection-98951612738714.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Snatch a Seed",
+    "placeId": 121180020176396,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-snatch-a-seed-121180020176396.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Snowcone Stand",
+    "placeId": 76113971506717,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-snowcone-stand-76113971506717.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Spin a Car",
+    "placeId": 136758055891411,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-spin-a-car-136758055891411.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Spin a Fem!",
+    "placeId": 91203203156283,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-spin-a-fem-91203203156283.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Spin a Superhero!",
+    "placeId": 130602523975656,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-spin-a-superhero-130602523975656.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Star Catchers",
+    "placeId": 70654975563721,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-star-catchers-70654975563721.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal a Baby Egg",
+    "placeId": 112530679555916,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-a-baby-egg-112530679555916.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal a Giant Egg",
+    "placeId": 136448020793455,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-a-giant-egg-136448020793455.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal A Lucky Egg",
+    "placeId": 123698673940079,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-a-lucky-egg-123698673940079.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal a Mystery Egg",
+    "placeId": 137789242313999,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-a-mystery-egg-137789242313999.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal A Seed For Bees",
+    "placeId": 87026033799342,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-a-seed-for-bees-87026033799342.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal A Seed!",
+    "placeId": 122216176958450,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-a-seed-122216176958450.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal A Tree!",
+    "placeId": 132958491990446,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-a-tree-132958491990446.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal A Verity!",
+    "placeId": 107164765081465,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-a-verity-107164765081465.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal an Anime Egg!",
+    "placeId": 76377501906469,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-an-anime-egg-76377501906469.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal An Egg",
+    "placeId": 107778070777162,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-an-egg-107778070777162.lua",
+    "variant": false,
+    "enabled": false,
+    "Modules": {}
+  },
+  {
+    "gameName": "Steal an Egg for Squishy Dumplings!",
+    "placeId": 134679507313109,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-an-egg-for-squishy-dumplings-134679507313109.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal an Employee",
+    "placeId": 140623702130018,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-an-employee-140623702130018.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal Anime Eggs & FIGHT!",
+    "placeId": 137671992254032,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-anime-eggs-fight-137671992254032.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal Anime Eggs",
+    "placeId": 96727061242653,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-anime-eggs-96727061242653.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal Brainrot Eggs",
+    "placeId": 104469958681645,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-brainrot-eggs-104469958681645.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal Fish Eggs",
+    "placeId": 99183404085821,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-fish-eggs-99183404085821.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal From The Rich!",
+    "placeId": 120475074479690,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-from-the-rich-120475074479690.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Steal The Museum",
+    "placeId": 88237852656234,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-steal-the-museum-88237852656234.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Stop The Bugs",
+    "placeId": 117747672521418,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-stop-the-bugs-117747672521418.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Storage Hunters Open World",
+    "placeId": 98800969324557,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-storage-hunters-open-world-98800969324557.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Stream A Cheese Pull!",
+    "placeId": 124293095895786,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-stream-a-cheese-pull-124293095895786.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Surf And Rescue",
+    "placeId": 120252007682677,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-surf-and-rescue-120252007682677.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Surf for Animals!",
+    "placeId": 96612869170793,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-surf-for-animals-96612869170793.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Survive Anime Arena",
+    "placeId": 134900842931883,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-survive-anime-arena-134900842931883.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Survive Lava for Animals",
+    "placeId": 127082754898219,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-survive-lava-for-animals-127082754898219.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Survive The Swarm",
+    "placeId": 100227226022278,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-survive-the-swarm-100227226022278.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Survive Zombie Arena",
+    "placeId": 114204398207377,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-survive-zombie-arena-114204398207377.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Fluent": "ui/Fluent.luau",
+      "FluentInterfaceManager": "ui/FluentInterfaceManager.luau",
+      "FluentSaveManager": "ui/FluentSaveManager.luau"
+    }
+  },
+  {
+    "gameName": "Swim For Eggs!",
+    "placeId": 113956654824187,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-swim-for-eggs-113956654824187.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "OuroFlow": "ui/OuroFlow.luau"
+    }
+  },
+  {
+    "gameName": "Swing For Eggs",
+    "placeId": 109203247742910,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-swing-for-eggs-109203247742910.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Sword RNG X",
+    "placeId": 88723502997575,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-sword-rng-x-88723502997575.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Tap 4 Money",
+    "placeId": 125410772032969,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-tap-4-money-125410772032969.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "The Veil",
+    "placeId": 125503525638054,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-the-veil-125503525638054.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Throw an Anime Coin!",
+    "placeId": 105198923939638,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-throw-an-anime-coin-105198923939638.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Toss a Dice",
+    "placeId": 89614588403906,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-toss-a-dice-89614588403906.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Tower VS Slimes",
+    "placeId": 78417665924734,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-tower-vs-slimes-78417665924734.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Tropical Resort Tycoon 2",
+    "placeId": 12338455185,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-tropical-resort-tycoon-2-12338455185.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Ultimate Tower Defense",
+    "placeId": 5902977746,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-ultimate-tower-defense-5902977746.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Unbox ASMR!",
+    "placeId": 112233638491976,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-unbox-asmr-112233638491976.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Unfreeze an Animal",
+    "placeId": 88773823105878,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-unfreeze-an-animal-88773823105878.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Where Seasons Pass",
+    "placeId": 133288411471369,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-where-seasons-pass-133288411471369.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Your Lumber Farm!",
+    "placeId": 84400387456675,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-your-lumber-farm-84400387456675.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Zombies",
+    "placeId": 80111254680893,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-zombies-80111254680893.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  },
+  {
+    "gameName": "Zone Defense RNG",
+    "placeId": 71607575632633,
+    "ScriptUrl": "https://raw.githubusercontent.com/CachosDEV/cachos-studio-scripts/main/scripts/cachos-zone-defense-rng-71607575632633.lua",
+    "variant": false,
+    "enabled": true,
+    "Modules": {
+      "Library": "ui/Library.lua",
+      "SaveManager": "ui/SaveManager.lua",
+      "ThemeManager": "ui/ThemeManager.lua"
+    }
+  }
+]
