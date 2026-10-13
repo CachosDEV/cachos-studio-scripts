@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Raise an Anomaly
+-- PlaceId: 71443883879110
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local J1_5, J1_21
 local yn

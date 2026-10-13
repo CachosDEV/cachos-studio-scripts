@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anime Card Farm
+-- PlaceId: 125039473548047
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local ReplicatedStorage
 local A0
 local z3

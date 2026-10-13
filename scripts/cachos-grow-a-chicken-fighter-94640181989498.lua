@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Grow a Chicken Fighter
+-- PlaceId: 94640181989498
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local xI_1, xI_3, xI_7, xI_9, xI_10, xI_11, FaqGroup, xI_18, xI_19, xI_20, xI_21, SocialsGroup, xI_27, xI_29, xI_30, xI_31
 local oh

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Star Catchers
+-- PlaceId: 70654975563721
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local xv_9, xv_10, xv_12, xv_14
 local oq

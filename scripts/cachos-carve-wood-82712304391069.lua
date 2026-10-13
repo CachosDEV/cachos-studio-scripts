@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Carve Wood!
+-- PlaceId: 82712304391069
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local zt_2, zt_4, zt_5, GameInfoGroup, FlyGroup, zt_13, zt_15, zt_24, zt_25, zt_27, zt_37, zt_39
 local oy

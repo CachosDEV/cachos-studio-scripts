@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Last Stop
+-- PlaceId: 85967844112283
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Cr
 local C9

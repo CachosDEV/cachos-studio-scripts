@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal an Employee
+-- PlaceId: 140623702130018
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local T5_2, T5_5, T5_7, T5_8
 T5_2 = nil

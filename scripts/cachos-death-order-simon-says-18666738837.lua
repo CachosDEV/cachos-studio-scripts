@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Death Order Simon Says
+-- PlaceId: 18666738837
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local akp_13, akp_15, Toggles, akp_18, Label3, akp_20, akp_22, akp_23, akp_24, WalkSpeed, akp_26, akp_28, akp_29, connection, akp_33, akp_35, akp_36, akp_38, akp_39, akp_41, akp_42, akp_43, akp_44, akp_47, akp_48, akp_50, akp_51, akp_52, Options, akp_55, akp_56, akp_57, akp_58, akp_60, Label, akp_63, akp_65, Workspace, akp_69, akp_75, akp_77
 fns.akp_2 = nil

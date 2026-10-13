@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Idle Mafia Game
+-- PlaceId: 73897506680154
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local H9_2, H9_3, H9_26, H9_29, H9_34, H9_37, H9_47, H9_57, H9_60, H9_66
 H9_2 = nil

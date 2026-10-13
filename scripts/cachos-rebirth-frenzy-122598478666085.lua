@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Rebirth Frenzy
+-- PlaceId: 122598478666085
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local kl
 local kI
 local j_

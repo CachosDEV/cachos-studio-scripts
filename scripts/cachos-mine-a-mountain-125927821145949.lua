@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Mine a Mountain
+-- PlaceId: 125927821145949
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Label2, G5_6, SortGarden, G5_9, G5_12, G5_13, G5_15, G5_17, G5_18, HttpService, G5_22, G5_23, G5_24, G5_26, G5_28, G5_31, G5_32, connection2, G5_36, G5_38, G5_40, G5_63, G5_68
 fns.ToolConfig = nil

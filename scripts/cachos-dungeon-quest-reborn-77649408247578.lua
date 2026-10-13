@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Dungeon Quest Reborn
+-- PlaceId: 77649408247578
+-- UI: custom ScreenGui
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
 local CoreGui = game:GetService("CoreGui")

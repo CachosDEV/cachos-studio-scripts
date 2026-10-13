@@ -1,0 +1,2511 @@
+{
+  "version": 2,
+  "scripts": [
+    {
+      "path": "scripts/cachos-1-anime-loot-upgrade-92484997704115.lua",
+      "bytes_before": 39212,
+      "bytes_after": 39478,
+      "lines": 1166,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-aura-per-click-109509029034984.lua",
+      "bytes_before": 55677,
+      "bytes_after": 55940,
+      "lines": 1728,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-backflip-keyboard-escape-102553576537621.lua",
+      "bytes_before": 28056,
+      "bytes_after": 28329,
+      "lines": 920,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-banana-monkey-destruction-83256791430098.lua",
+      "bytes_before": 51674,
+      "bytes_after": 51947,
+      "lines": 1256,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-chop-trees-for-treasure-110730550789828.lua",
+      "bytes_before": 138665,
+      "bytes_after": 138937,
+      "lines": 4167,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-clone-evolution-120297898552393.lua",
+      "bytes_before": 78425,
+      "bytes_after": 78689,
+      "lines": 2381,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-cut-and-ride-pet-78793646042773.lua",
+      "bytes_before": 58824,
+      "bytes_after": 59088,
+      "lines": 1877,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-cut-grass-adventure-90086669327265.lua",
+      "bytes_before": 51219,
+      "bytes_after": 51486,
+      "lines": 1533,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-dino-evolution-103138601755519.lua",
+      "bytes_before": 69205,
+      "bytes_after": 69468,
+      "lines": 2279,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-dmg-fps-100753254401525.lua",
+      "bytes_before": 90629,
+      "bytes_after": 90885,
+      "lines": 2964,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-dmg-per-revive-110806816173057.lua",
+      "bytes_before": 55873,
+      "bytes_after": 56136,
+      "lines": 1800,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-double-jump-bike-escape-74218191398494.lua",
+      "bytes_before": 43782,
+      "bytes_after": 44054,
+      "lines": 1486,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-drain-water-per-click-103883942725157.lua",
+      "bytes_before": 61452,
+      "bytes_after": 61722,
+      "lines": 1936,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-drill-blocks-for-animals-136327778829765.lua",
+      "bytes_before": 96870,
+      "bytes_after": 97143,
+      "lines": 3384,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-fart-to-break-doors-120285538222067.lua",
+      "bytes_before": 83520,
+      "bytes_after": 83788,
+      "lines": 2727,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-fat-per-click-128329680321338.lua",
+      "bytes_before": 34383,
+      "bytes_after": 34645,
+      "lines": 1087,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-fish-per-click-138831961498372.lua",
+      "bytes_before": 51861,
+      "bytes_after": 52124,
+      "lines": 1740,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-followers-per-click-98695134949589.lua",
+      "bytes_before": 45267,
+      "bytes_after": 45534,
+      "lines": 1438,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-football-for-brainrots-115564147666832.lua",
+      "bytes_before": 52184,
+      "bytes_after": 52455,
+      "lines": 1673,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-fruit-samurai-121143259662420.lua",
+      "bytes_before": 99551,
+      "bytes_after": 99813,
+      "lines": 2647,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-hack-per-click-88968590411663.lua",
+      "bytes_before": 56879,
+      "bytes_after": 57141,
+      "lines": 1636,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-heat-per-click-95570822232841.lua",
+      "bytes_before": 52874,
+      "bytes_after": 53136,
+      "lines": 1816,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-height-per-jump-137202615981355.lua",
+      "bytes_before": 38576,
+      "bytes_after": 38840,
+      "lines": 1254,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-horse-evolution-107765897665486.lua",
+      "bytes_before": 226094,
+      "bytes_after": 226358,
+      "lines": 5300,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-jump-crunchy-asmr-escape-83264774625004.lua",
+      "bytes_before": 59287,
+      "bytes_after": 59560,
+      "lines": 1877,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-kitten-keyboard-escape-94860588848140.lua",
+      "bytes_before": 50589,
+      "bytes_after": 50859,
+      "lines": 1519,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-lava-escape-82460561886298.lua",
+      "bytes_before": 41643,
+      "bytes_after": 41902,
+      "lines": 1417,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-long-arm-toy-escape-74341114342499.lua",
+      "bytes_before": 53657,
+      "bytes_after": 53925,
+      "lines": 1610,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-loot-to-forge-118805555015549.lua",
+      "bytes_before": 107368,
+      "bytes_after": 107630,
+      "lines": 3600,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-mog-evolution-92648272637932.lua",
+      "bytes_before": 92181,
+      "bytes_after": 92442,
+      "lines": 3036,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-muscle-evolution-133007106457547.lua",
+      "bytes_before": 41240,
+      "bytes_after": 41505,
+      "lines": 1226,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-muscles-for-prison-escape-99468092262114.lua",
+      "bytes_before": 73035,
+      "bytes_after": 73308,
+      "lines": 1952,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-pickaxe-swing-escape-82554996468034.lua",
+      "bytes_before": 24696,
+      "bytes_after": 24964,
+      "lines": 681,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-poop-per-click-81875183293545.lua",
+      "bytes_before": 43565,
+      "bytes_after": 43827,
+      "lines": 1652,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-poor-to-rich-96003649748017.lua",
+      "bytes_before": 50084,
+      "bytes_after": 50344,
+      "lines": 1564,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-power-jujutsu-kaisen-evolution-73768088906246.lua",
+      "bytes_before": 49109,
+      "bytes_after": 49387,
+      "lines": 1449,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-power-per-click-74889851913797.lua",
+      "bytes_before": 45050,
+      "bytes_after": 45313,
+      "lines": 1470,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-shrink-per-step-91695551099066.lua",
+      "bytes_before": 50581,
+      "bytes_after": 50844,
+      "lines": 1650,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-skinny-per-step-128448883585036.lua",
+      "bytes_before": 38948,
+      "bytes_after": 39212,
+      "lines": 1507,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-slash-per-click-101558013317432.lua",
+      "bytes_before": 74452,
+      "bytes_after": 74717,
+      "lines": 2422,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-smash-walls-for-anime-characters-76196195821497.lua",
+      "bytes_before": 46114,
+      "bytes_after": 46395,
+      "lines": 1482,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-speed-evolve-83569851223739.lua",
+      "bytes_before": 45632,
+      "bytes_after": 45892,
+      "lines": 1533,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-speed-monkey-escape-114697347887839.lua",
+      "bytes_before": 48839,
+      "bytes_after": 49107,
+      "lines": 1273,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-speed-ninja-keyboard-escape-90740816183375.lua",
+      "bytes_before": 71428,
+      "bytes_after": 71703,
+      "lines": 2445,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-speed-plane-escape-114688126725619.lua",
+      "bytes_before": 255861,
+      "bytes_after": 256128,
+      "lines": 5576,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-speedster-escape-85065221510105.lua",
+      "bytes_before": 58379,
+      "bytes_after": 58643,
+      "lines": 1798,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-spider-evolution-135830878717711.lua",
+      "bytes_before": 58378,
+      "bytes_after": 58643,
+      "lines": 1908,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-spinjitsu-escape-131910189515331.lua",
+      "bytes_before": 56593,
+      "bytes_after": 56858,
+      "lines": 1856,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-stand-power-evolution-82598548574073.lua",
+      "bytes_before": 45116,
+      "bytes_after": 45385,
+      "lines": 1461,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-stone-skipping-111543903102439.lua",
+      "bytes_before": 59162,
+      "bytes_after": 59425,
+      "lines": 1979,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-strength-for-eggs-98610101874791.lua",
+      "bytes_before": 83567,
+      "bytes_after": 83832,
+      "lines": 2874,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-strength-to-grow-your-arm-86259628805375.lua",
+      "bytes_before": 98600,
+      "bytes_after": 98873,
+      "lines": 3347,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-superhero-evolution-97824450589417.lua",
+      "bytes_before": 57737,
+      "bytes_after": 58004,
+      "lines": 1828,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-sword-fighting-escape-71132391335247.lua",
+      "bytes_before": 59240,
+      "bytes_after": 59509,
+      "lines": 1926,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-sword-vs-anime-72600023868608.lua",
+      "bytes_before": 81868,
+      "bytes_after": 82130,
+      "lines": 2463,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-tall-to-escape-140334945309841.lua",
+      "bytes_before": 72501,
+      "bytes_after": 72764,
+      "lines": 2436,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-tnt-mining-101304595834078.lua",
+      "bytes_before": 89332,
+      "bytes_after": 89591,
+      "lines": 2698,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-tongue-escape-122245938604556.lua",
+      "bytes_before": 74734,
+      "bytes_after": 74996,
+      "lines": 2453,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-web-swing-escape-110668201954727.lua",
+      "bytes_before": 47291,
+      "bytes_after": 47556,
+      "lines": 1649,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-weight-escape-134129939916744.lua",
+      "bytes_before": 192124,
+      "bytes_after": 192386,
+      "lines": 4066,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-wings-for-brainrots-84332574190497.lua",
+      "bytes_before": 55585,
+      "bytes_after": 55852,
+      "lines": 1772,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-1-wings-for-eggs-80242821185181.lua",
+      "bytes_before": 130726,
+      "bytes_after": 130988,
+      "lines": 3643,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-2omething-evil-will-happen-16991287194.lua",
+      "bytes_before": 16073,
+      "bytes_after": 16341,
+      "lines": 530,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-50-player-bingo-131479356121251.lua",
+      "bytes_before": 34504,
+      "bytes_after": 34766,
+      "lines": 939,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-age-evolution-tycoon-96469185605358.lua",
+      "bytes_before": 40551,
+      "bytes_after": 40816,
+      "lines": 1144,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-airport-tycoon-138486812747835.lua",
+      "bytes_before": 46196,
+      "bytes_after": 46456,
+      "lines": 1406,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-astral-simulator-102072869879193.lua",
+      "bytes_before": 50192,
+      "bytes_after": 50460,
+      "lines": 2041,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-card-farm-125039473548047.lua",
+      "bytes_before": 125585,
+      "bytes_after": 125846,
+      "lines": 4002,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-dice-113290951185459.lua",
+      "bytes_before": 185084,
+      "bytes_after": 185340,
+      "lines": 5035,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-expeditions-84515722934860.lua",
+      "bytes_before": 542686,
+      "bytes_after": 542948,
+      "lines": 14199,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-girl-paint-by-numbers-129300814231343.lua",
+      "bytes_before": 62420,
+      "bytes_after": 62693,
+      "lines": 1727,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-jackpot-117616339044619.lua",
+      "bytes_before": 51743,
+      "bytes_after": 52002,
+      "lines": 1680,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-overseer.lua",
+      "bytes_before": 67245,
+      "bytes_after": 67498,
+      "lines": 2146,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-rng-defense-104693964860826.lua",
+      "bytes_before": 7449,
+      "bytes_after": 7712,
+      "lines": 226,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-souls-118884500321949.lua",
+      "bytes_before": 34572,
+      "bytes_after": 34829,
+      "lines": 1164,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-squadron-71132543521245.lua",
+      "bytes_before": 535247,
+      "bytes_after": 535506,
+      "lines": 11977,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anime-war-rng-79908803570376.lua",
+      "bytes_before": 53790,
+      "bytes_after": 54048,
+      "lines": 1603,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-anomaly-garden-114302935980927.lua",
+      "bytes_before": 88308,
+      "bytes_after": 88568,
+      "lines": 2613,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-aura-for-brainrots-122526789002601.lua",
+      "bytes_before": 53905,
+      "bytes_after": 54169,
+      "lines": 1643,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-automate-a-restaurant-101670277171204.lua",
+      "bytes_before": 52298,
+      "bytes_after": 52565,
+      "lines": 1806,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-backflip-for-animals-88611017452341.lua",
+      "bytes_before": 81297,
+      "bytes_after": 81563,
+      "lines": 2733,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-backrooms-simulator-126061186342944.lua",
+      "bytes_before": 67385,
+      "bytes_after": 67650,
+      "lines": 2159,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-basketball-dynasty-91696807303847.lua",
+      "bytes_before": 68590,
+      "bytes_after": 68853,
+      "lines": 2183,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-be-a-fish-bait-sci-fi-upd-99702578544768.lua",
+      "bytes_before": 30151,
+      "bytes_after": 30422,
+      "lines": 1032,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-be-monkey-for-brainrots-76984077812388.lua",
+      "bytes_before": 47392,
+      "bytes_after": 47661,
+      "lines": 1451,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-be-the-final-boss-140302982046391.lua",
+      "bytes_before": 66738,
+      "bytes_after": 67001,
+      "lines": 1644,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-beat-the-anime-boss-129216769649527.lua",
+      "bytes_before": 47977,
+      "bytes_after": 48243,
+      "lines": 1572,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-become-a-billionaire-90704250333473.lua",
+      "bytes_before": 25015,
+      "bytes_after": 25280,
+      "lines": 757,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-bee-remasters.lua",
+      "bytes_before": 103306,
+      "bytes_after": 103558,
+      "lines": 3381,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-bid-for-anime-87274635966213.lua",
+      "bytes_before": 35107,
+      "bytes_after": 35366,
+      "lines": 1210,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-bid-for-soccer-cards-73578698401320.lua",
+      "bytes_before": 58854,
+      "bytes_after": 59120,
+      "lines": 1687,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-blow-up-lucky-blocks-for-cars-77084002576266.lua",
+      "bytes_before": 48187,
+      "bytes_after": 48461,
+      "lines": 1553,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-bomb-fishing-118677256126351.lua",
+      "bytes_before": 40518,
+      "bytes_after": 40777,
+      "lines": 1329,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-brainrot-card-battles-124124395449044.lua",
+      "bytes_before": 69169,
+      "bytes_after": 69436,
+      "lines": 2159,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-brainrot-sniper-95223801959482.lua",
+      "bytes_before": 51811,
+      "bytes_after": 52071,
+      "lines": 1416,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-break-an-egg-128683790553857.lua",
+      "bytes_before": 87240,
+      "bytes_after": 87499,
+      "lines": 2945,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-break-for-anime-83337738588990.lua",
+      "bytes_before": 62984,
+      "bytes_after": 63245,
+      "lines": 1994,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-break-tape-for-brainrots-104339804279870.lua",
+      "bytes_before": 40400,
+      "bytes_after": 40670,
+      "lines": 1331,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-break-walls-for-brainrots-123708462523153.lua",
+      "bytes_before": 65464,
+      "bytes_after": 65736,
+      "lines": 2173,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-breakdoor-119004860768199.lua",
+      "bytes_before": 43529,
+      "bytes_after": 43784,
+      "lines": 1648,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-base-and-steal-132016691802922.lua",
+      "bytes_before": 19906,
+      "bytes_after": 20174,
+      "lines": 579,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-bee-swarm-113398232239418.lua",
+      "bytes_before": 58523,
+      "bytes_after": 58786,
+      "lines": 1958,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-cart-127590941940388.lua",
+      "bytes_before": 53955,
+      "bytes_after": 54213,
+      "lines": 1702,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-clone-obby-136871790892566.lua",
+      "bytes_before": 77988,
+      "bytes_after": 78252,
+      "lines": 2411,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-garden-tower-115035699922620.lua",
+      "bytes_before": 63953,
+      "bytes_after": 64219,
+      "lines": 1753,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-golem-78091651370612.lua",
+      "bytes_before": 55339,
+      "bytes_after": 55598,
+      "lines": 1632,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-gun-army-134162299584012.lua",
+      "bytes_before": 55517,
+      "bytes_after": 55779,
+      "lines": 1430,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-keyboard-91679585668032.lua",
+      "bytes_before": 22306,
+      "bytes_after": 22567,
+      "lines": 710,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-pet-factory-135729108619936.lua",
+      "bytes_before": 35905,
+      "bytes_after": 36170,
+      "lines": 1034,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-solar-farm-89790257708758.lua",
+      "bytes_before": 75665,
+      "bytes_after": 75928,
+      "lines": 2520,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-a-zoo-105555311806207.lua",
+      "bytes_before": 42086,
+      "bytes_after": 42343,
+      "lines": 1292,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-an-ai-84637477108843.lua",
+      "bytes_before": 80885,
+      "bytes_after": 81141,
+      "lines": 2604,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-an-ore-farm-103923778951081.lua",
+      "bytes_before": 60448,
+      "bytes_after": 60711,
+      "lines": 1819,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-an-ore-farm-80742451189972.lua",
+      "bytes_before": 99303,
+      "bytes_after": 99565,
+      "lines": 2414,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-base-to-survive-verity-116070952245255.lua",
+      "bytes_before": 51245,
+      "bytes_after": 51519,
+      "lines": 1321,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-golems-and-fight-101145494627874.lua",
+      "bytes_before": 74296,
+      "bytes_after": 74564,
+      "lines": 2307,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-the-pyramid-123720558354386.lua",
+      "bytes_before": 79904,
+      "bytes_after": 80168,
+      "lines": 2578,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-build-your-butterfly-garden-126003539836478.lua",
+      "bytes_before": 71741,
+      "bytes_after": 72014,
+      "lines": 1895,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-cake-mountain-83733952151811.lua",
+      "bytes_before": 36969,
+      "bytes_after": 37227,
+      "lines": 1456,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-capybaras-vs-plants-104973076655377.lua",
+      "bytes_before": 220282,
+      "bytes_after": 220547,
+      "lines": 5314,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-cars-vs-tape-98393605725180.lua",
+      "bytes_before": 41238,
+      "bytes_after": 41495,
+      "lines": 1287,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-carve-wood-82712304391069.lua",
+      "bytes_before": 65283,
+      "bytes_after": 65539,
+      "lines": 1978,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-case-paradise-118637423917462.lua",
+      "bytes_before": 46546,
+      "bytes_after": 46805,
+      "lines": 1234,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-catch-1-billion-ducks-100293509865504.lua",
+      "bytes_before": 119755,
+      "bytes_after": 120022,
+      "lines": 3642,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-catch-a-monster-98664161516921.lua",
+      "bytes_before": 35798,
+      "bytes_after": 36058,
+      "lines": 1097,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-catch-and-tame-96645548064314.lua",
+      "bytes_before": 113920,
+      "bytes_after": 114180,
+      "lines": 3514,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-catch-dragons-to-defend-102392235728099.lua",
+      "bytes_before": 74815,
+      "bytes_after": 75084,
+      "lines": 2392,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-chicken-farm-137233438285284.lua",
+      "bytes_before": 9645,
+      "bytes_after": 9903,
+      "lines": 358,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-choose-the-stronger-anime-111801263516291.lua",
+      "bytes_before": 97826,
+      "bytes_after": 98098,
+      "lines": 2815,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-claw-fishing-128931272139211.lua",
+      "bytes_before": 35393,
+      "bytes_after": 35651,
+      "lines": 1006,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-clean-all-the-leaves-92637789841354.lua",
+      "bytes_before": 74683,
+      "bytes_after": 74948,
+      "lines": 2349,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-clean-the-world-105767799784652.lua",
+      "bytes_before": 38015,
+      "bytes_after": 38277,
+      "lines": 1154,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-clean-your-keycaps-82745432464897.lua",
+      "bytes_before": 25355,
+      "bytes_after": 25618,
+      "lines": 715,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-clicker-simulator-134719268825886.lua",
+      "bytes_before": 246333,
+      "bytes_after": 246597,
+      "lines": 7652,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-cliff-mansion-tycoon-88015023779741.lua",
+      "bytes_before": 35660,
+      "bytes_after": 35925,
+      "lines": 1021,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-climb-and-drop-a-lucky-block-96401370703274.lua",
+      "bytes_before": 65075,
+      "bytes_after": 65348,
+      "lines": 2015,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-climb-waterslide-and-slide-139617346573330.lua",
+      "bytes_before": 39444,
+      "bytes_after": 39716,
+      "lines": 1175,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-clone-to-steal-eggs-76943966208523.lua",
+      "bytes_before": 135204,
+      "bytes_after": 135468,
+      "lines": 3962,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-coach-a-fighter-111517697993641.lua",
+      "bytes_before": 44386,
+      "bytes_after": 44648,
+      "lines": 1723,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-coin-flip-99416896791343.lua",
+      "bytes_before": 52623,
+      "bytes_after": 52877,
+      "lines": 1324,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-collect-1-million-items-133363783004873.lua",
+      "bytes_before": 48044,
+      "bytes_after": 48313,
+      "lines": 1584,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-collect-cars-and-race-120579221585812.lua",
+      "bytes_before": 67141,
+      "bytes_after": 67408,
+      "lines": 2177,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-collect-the-alphabet-127103413498148.lua",
+      "bytes_before": 52195,
+      "bytes_after": 52461,
+      "lines": 1546,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-cook-sell-106131416903029.lua",
+      "bytes_before": 59073,
+      "bytes_after": 59331,
+      "lines": 1757,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-cowboy-duels-131103239963274.lua",
+      "bytes_before": 48822,
+      "bytes_after": 49080,
+      "lines": 1551,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-cows-rng-130190834497309.lua",
+      "bytes_before": 57376,
+      "bytes_after": 57630,
+      "lines": 1850,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-cultivation-evermortal-96179204081384.lua",
+      "bytes_before": 113777,
+      "bytes_after": 114044,
+      "lines": 3240,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-cut-a-gem-111773649152177.lua",
+      "bytes_before": 63747,
+      "bytes_after": 64002,
+      "lines": 1941,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-death-order-simon-says-18666738837.lua",
+      "bytes_before": 152632,
+      "bytes_after": 152896,
+      "lines": 4799,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-deep-fishing-132239307080610.lua",
+      "bytes_before": 68386,
+      "bytes_after": 68644,
+      "lines": 2412,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-defeat-anime-rng-92606991708989.lua",
+      "bytes_before": 223664,
+      "bytes_after": 223925,
+      "lines": 6142,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-defend-my-ring-farm-71245877600560.lua",
+      "bytes_before": 72020,
+      "bytes_after": 72284,
+      "lines": 2300,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-defend-ur-base-with-anime-105031185134358.lua",
+      "bytes_before": 88067,
+      "bytes_after": 88338,
+      "lines": 2722,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-defend-your-animals-84210392569061.lua",
+      "bytes_before": 121444,
+      "bytes_after": 121709,
+      "lines": 3553,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-defend-your-plushie-td-116501341774429.lua",
+      "bytes_before": 45470,
+      "bytes_after": 45739,
+      "lines": 1517,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-defend-your-treehouse-100641654440407.lua",
+      "bytes_before": 121829,
+      "bytes_after": 122097,
+      "lines": 4017,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-destroy-a-house-125495618008505.lua",
+      "bytes_before": 104690,
+      "bytes_after": 104951,
+      "lines": 3392,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-dig-clean-83038462357724.lua",
+      "bytes_before": 93141,
+      "bytes_after": 93397,
+      "lines": 2753,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-dig-into-secrets-119409763193569.lua",
+      "bytes_before": 54975,
+      "bytes_after": 55237,
+      "lines": 1665,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-dino-hunters-119031147890918.lua",
+      "bytes_before": 54787,
+      "bytes_after": 55045,
+      "lines": 1544,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-don-t-steal-the-bobo-120135584963579.lua",
+      "bytes_before": 33518,
+      "bytes_after": 33784,
+      "lines": 1098,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-donation.lua",
+      "bytes_before": 24545,
+      "bytes_after": 24792,
+      "lines": 786,
+      "ui": "custom/no GUI detected"
+    },
+    {
+      "path": "scripts/cachos-dragon-adventures-3475397644.lua",
+      "bytes_before": 78313,
+      "bytes_after": 78571,
+      "lines": 2591,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-dream-keyboard-escape-129350834403009.lua",
+      "bytes_before": 88669,
+      "bytes_after": 88936,
+      "lines": 2419,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-drill-blocks-for-brainrots-78177131121429.lua",
+      "bytes_before": 53604,
+      "bytes_after": 53875,
+      "lines": 1847,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-drill-for-anime-117459530347460.lua",
+      "bytes_before": 52929,
+      "bytes_after": 53190,
+      "lines": 1714,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-drive-thru-empire-88271351034688.lua",
+      "bytes_before": 71246,
+      "bytes_after": 71508,
+      "lines": 2349,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-dungeon-lootr-106484206883664.lua",
+      "bytes_before": 286598,
+      "bytes_after": 286857,
+      "lines": 8512,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-dungeon-quest-reborn-77649408247578.lua",
+      "bytes_before": 14404,
+      "bytes_after": 14663,
+      "lines": 402,
+      "ui": "custom ScreenGui"
+    },
+    {
+      "path": "scripts/cachos-endless-tower-defense-109792243252518.lua",
+      "bytes_before": 117768,
+      "bytes_after": 118035,
+      "lines": 3220,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-evomon-134381727982611.lua",
+      "bytes_before": 226449,
+      "bytes_after": 226701,
+      "lines": 6582,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-farm-a-fish-91296119701853.lua",
+      "bytes_before": 85281,
+      "bytes_after": 85537,
+      "lines": 2167,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-farm-an-island-78769336859161.lua",
+      "bytes_before": 41004,
+      "bytes_after": 41263,
+      "lines": 990,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-farmers-market-108479378357844.lua",
+      "bytes_before": 57061,
+      "bytes_after": 57321,
+      "lines": 1783,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-fill-water-tanks-113461233137974.lua",
+      "bytes_before": 49884,
+      "bytes_after": 50146,
+      "lines": 1561,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-final-swarm-99521272836282.lua",
+      "bytes_before": 65779,
+      "bytes_after": 66035,
+      "lines": 1897,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-find-the-needle-83238501165241.lua",
+      "bytes_before": 47682,
+      "bytes_after": 47943,
+      "lines": 1570,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-fish-an-anime-rng-74729868188364.lua",
+      "bytes_before": 119831,
+      "bytes_after": 120093,
+      "lines": 3368,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-fish-an-egg-from-rivers-101672855717389.lua",
+      "bytes_before": 74237,
+      "bytes_after": 74506,
+      "lines": 2585,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-fish-for-junk-132010220154773.lua",
+      "bytes_before": 46589,
+      "bytes_after": 46848,
+      "lines": 1458,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-fisheggs.lua",
+      "bytes_before": 60558,
+      "bytes_after": 60805,
+      "lines": 1779,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-fishing-chef-88599461076137.lua",
+      "bytes_before": 75984,
+      "bytes_after": 76241,
+      "lines": 2298,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-fishing-wars-106605020123719.lua",
+      "bytes_before": 73243,
+      "bytes_after": 73501,
+      "lines": 2405,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-forge-and-sell-95942361689346.lua",
+      "bytes_before": 51151,
+      "bytes_after": 51410,
+      "lines": 1677,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-fruit-zombie-survival-75290583112878.lua",
+      "bytes_before": 84055,
+      "bytes_after": 84321,
+      "lines": 2761,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-garden-cleaner-evolution-89907728898683.lua",
+      "bytes_before": 39594,
+      "bytes_after": 39863,
+      "lines": 1059,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-garden-horizons-130594398886540.lua",
+      "bytes_before": 39233,
+      "bytes_after": 39494,
+      "lines": 1294,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-get-fat-to-break-tape-75568173037446.lua",
+      "bytes_before": 45096,
+      "bytes_after": 45362,
+      "lines": 1299,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-greedy-brainrots-83220467866714.lua",
+      "bytes_before": 58911,
+      "bytes_after": 59172,
+      "lines": 1984,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-greedy-growers-74102906764176.lua",
+      "bytes_before": 142570,
+      "bytes_after": 142829,
+      "lines": 4256,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-grow-a-beehive-88891488197895.lua",
+      "bytes_before": 24404,
+      "bytes_after": 24663,
+      "lines": 899,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-grow-a-chicken-fighter-94640181989498.lua",
+      "bytes_before": 76155,
+      "bytes_after": 76422,
+      "lines": 2332,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-grow-it-rng-78292727217500.lua",
+      "bytes_before": 72151,
+      "bytes_after": 72407,
+      "lines": 1761,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-hack-a-business-118055952211055.lua",
+      "bytes_before": 34376,
+      "bytes_after": 34637,
+      "lines": 960,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-hatch-and-fry-124472567087489.lua",
+      "bytes_before": 73042,
+      "bytes_after": 73302,
+      "lines": 2260,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-heavyweight-fishing-98502499119821.lua",
+      "bytes_before": 197517,
+      "bytes_after": 197781,
+      "lines": 6042,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-helomybrotha.lua",
+      "bytes_before": 244347,
+      "bytes_after": 244598,
+      "lines": 5413,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-heroes-rng-108307565942574.lua",
+      "bytes_before": 48090,
+      "bytes_after": 48346,
+      "lines": 1640,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-hit-a-golf-ball-138363592957250.lua",
+      "bytes_before": 44222,
+      "bytes_after": 44483,
+      "lines": 1389,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-hole-fishing-80158232099900.lua",
+      "bytes_before": 67927,
+      "bytes_after": 68184,
+      "lines": 2159,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-hotel-tycoon-16345149114.lua",
+      "bytes_before": 34837,
+      "bytes_after": 35091,
+      "lines": 1002,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-hunting-season-5286116071.lua",
+      "bytes_before": 89584,
+      "bytes_after": 89839,
+      "lines": 3025,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-idle-mafia-game-73897506680154.lua",
+      "bytes_before": 97274,
+      "bytes_after": 97534,
+      "lines": 3153,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-jump-beanstalk-for-brainrots-82890021382517.lua",
+      "bytes_before": 79465,
+      "bytes_after": 79739,
+      "lines": 2108,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-jump-for-animals-126870639873289.lua",
+      "bytes_before": 142556,
+      "bytes_after": 142819,
+      "lines": 4401,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-jump-to-steal-an-egg-106383201135975.lua",
+      "bytes_before": 76138,
+      "bytes_after": 76404,
+      "lines": 2428,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-jump-to-steal-scp-monsters-123724279728430.lua",
+      "bytes_before": 86725,
+      "bytes_after": 86998,
+      "lines": 2988,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-jump-to-steal-slime-131776241538171.lua",
+      "bytes_before": 58601,
+      "bytes_after": 58866,
+      "lines": 1922,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-jump-to-steal-soccer-players-133294838637122.lua",
+      "bytes_before": 32019,
+      "bytes_after": 32293,
+      "lines": 1097,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-karinderya-116497287371701.lua",
+      "bytes_before": 134242,
+      "bytes_after": 134499,
+      "lines": 4276,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-kawaii-anime-rng-104263864475588.lua",
+      "bytes_before": 43751,
+      "bytes_after": 44013,
+      "lines": 1420,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-kick-an-uma-74968636725538.lua",
+      "bytes_before": 113313,
+      "bytes_after": 113569,
+      "lines": 3138,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-kick-ball-to-space-127634932179327.lua",
+      "bytes_before": 23402,
+      "bytes_after": 23666,
+      "lines": 673,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-lake-sipping-119715129239364.lua",
+      "bytes_before": 127328,
+      "bytes_after": 127586,
+      "lines": 3859,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-last-stop-85967844112283.lua",
+      "bytes_before": 107825,
+      "bytes_after": 108079,
+      "lines": 3792,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-launch-a-nuke-132906917070002.lua",
+      "bytes_before": 160030,
+      "bytes_after": 160290,
+      "lines": 3349,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-lift-a-cube-109530157755211.lua",
+      "bytes_before": 54967,
+      "bytes_after": 55224,
+      "lines": 1792,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-load-the-truck-120491560796071.lua",
+      "bytes_before": 27634,
+      "bytes_after": 27895,
+      "lines": 821,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-lowball-135512068353850.lua",
+      "bytes_before": 87620,
+      "bytes_after": 87873,
+      "lines": 2319,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-magnet-fishing-83717725495693.lua",
+      "bytes_before": 79422,
+      "bytes_after": 79681,
+      "lines": 2564,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-make-a-drill-farm-79315121100812.lua",
+      "bytes_before": 29172,
+      "bytes_after": 29434,
+      "lines": 814,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-make-hotsauce-122391683154858.lua",
+      "bytes_before": 37116,
+      "bytes_after": 37375,
+      "lines": 1041,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-make-soccer-players-78053126230950.lua",
+      "bytes_before": 60499,
+      "bytes_after": 60763,
+      "lines": 1842,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-mansion-tycoon-12912731475.lua",
+      "bytes_before": 39170,
+      "bytes_after": 39426,
+      "lines": 1192,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-dig-simulator-74569490529875.lua",
+      "bytes_before": 68841,
+      "bytes_after": 69108,
+      "lines": 2240,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-a-black-hole-118605709428489.lua",
+      "bytes_before": 27382,
+      "bytes_after": 27646,
+      "lines": 895,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-a-dino-84546345526935.lua",
+      "bytes_before": 57858,
+      "bytes_after": 58115,
+      "lines": 1883,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-a-mob-132097599643482.lua",
+      "bytes_before": 41711,
+      "bytes_after": 41969,
+      "lines": 1075,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-a-nuke-128784467030899.lua",
+      "bytes_before": 21185,
+      "bytes_after": 21444,
+      "lines": 698,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-a-spinner-101396571928321.lua",
+      "bytes_before": 41465,
+      "bytes_after": 41727,
+      "lines": 1347,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-a-squishy-117740102453431.lua",
+      "bytes_before": 33470,
+      "bytes_after": 33731,
+      "lines": 993,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-a-tank-121582128546193.lua",
+      "bytes_before": 31981,
+      "bytes_after": 32239,
+      "lines": 990,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-an-scp-70904050766278.lua",
+      "bytes_before": 120255,
+      "bytes_after": 120512,
+      "lines": 3603,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-anime-defender-98168250096750.lua",
+      "bytes_before": 28818,
+      "bytes_after": 29083,
+      "lines": 835,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-plants-vs-mobs-111996161342573.lua",
+      "bytes_before": 41784,
+      "bytes_after": 42050,
+      "lines": 1413,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-merge-swords-and-kill-zombies-122004026354492.lua",
+      "bytes_before": 39131,
+      "bytes_after": 39407,
+      "lines": 1193,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-mine-a-mountain-125927821145949.lua",
+      "bytes_before": 81909,
+      "bytes_after": 82170,
+      "lines": 2604,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-mine-rng-84745252930301.lua",
+      "bytes_before": 36310,
+      "bytes_after": 36563,
+      "lines": 1019,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-mini-war-131346454575416.lua",
+      "bytes_before": 87873,
+      "bytes_after": 88127,
+      "lines": 2372,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-missiles-vs-cities-112641748896693.lua",
+      "bytes_before": 36659,
+      "bytes_after": 36923,
+      "lines": 1649,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-motorcycle-for-animals-84403204002907.lua",
+      "bytes_before": 72579,
+      "bytes_after": 72846,
+      "lines": 2466,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-mutant-plants-base-defense-105954652742326.lua",
+      "bytes_before": 46732,
+      "bytes_after": 47004,
+      "lines": 1472,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-anime-mine-79389059854988.lua",
+      "bytes_before": 85572,
+      "bytes_after": 85830,
+      "lines": 2678,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-billionaire-zoo-129441589031863.lua",
+      "bytes_before": 46474,
+      "bytes_after": 46738,
+      "lines": 1347,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-dancing-animals-102602309625870.lua",
+      "bytes_before": 71550,
+      "bytes_after": 71815,
+      "lines": 2403,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-dealership-115155881139305.lua",
+      "bytes_before": 59565,
+      "bytes_after": 59824,
+      "lines": 1814,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-dino-park-80701570784699.lua",
+      "bytes_before": 26207,
+      "bytes_after": 26465,
+      "lines": 799,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-farmers-garden-83581240126371.lua",
+      "bytes_before": 68075,
+      "bytes_after": 68337,
+      "lines": 2170,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-flower-shop-93028168925975.lua",
+      "bytes_before": 55937,
+      "bytes_after": 56196,
+      "lines": 1833,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-fruit-blender-90716098954183.lua",
+      "bytes_before": 64104,
+      "bytes_after": 64365,
+      "lines": 1988,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-giant-farm-98906051062892.lua",
+      "bytes_before": 53659,
+      "bytes_after": 53917,
+      "lines": 1818,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-grass-farm-98073123711869.lua",
+      "bytes_before": 60930,
+      "bytes_after": 61188,
+      "lines": 1889,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-lucky-train-122245209010944.lua",
+      "bytes_before": 58171,
+      "bytes_after": 58431,
+      "lines": 1746,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-moo-farm-134807373415131.lua",
+      "bytes_before": 33792,
+      "bytes_after": 34049,
+      "lines": 1306,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-pet-farm-83847197909679.lua",
+      "bytes_before": 32239,
+      "bytes_after": 32415,
+      "lines": 1164,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-seafood-stand-72896199592423.lua",
+      "bytes_before": 130662,
+      "bytes_after": 130923,
+      "lines": 3565,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-sword-empire-108364799245223.lua",
+      "bytes_before": 42011,
+      "bytes_after": 42272,
+      "lines": 1302,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-timber-pets-111035930019117.lua",
+      "bytes_before": 58271,
+      "bytes_after": 58532,
+      "lines": 1813,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-my-toll-farm-96425088123775.lua",
+      "bytes_before": 49710,
+      "bytes_after": 49968,
+      "lines": 1646,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-oil-empire-107095834793267.lua",
+      "bytes_before": 39174,
+      "bytes_after": 39430,
+      "lines": 1280,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-open-sea-for-animals-88047783411976.lua",
+      "bytes_before": 85584,
+      "bytes_after": 85850,
+      "lines": 2621,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-pan-the-river-102484409263550.lua",
+      "bytes_before": 42167,
+      "bytes_after": 42426,
+      "lines": 1408,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-parkour-pandemic-128718867767713.lua",
+      "bytes_before": 44554,
+      "bytes_after": 44816,
+      "lines": 1489,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-penthouse-tycoon-124943244212764.lua",
+      "bytes_before": 33080,
+      "bytes_after": 33342,
+      "lines": 919,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-pet-forest-83863726584027.lua",
+      "bytes_before": 54615,
+      "bytes_after": 54870,
+      "lines": 1758,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-pets-universe-74629631798007.lua",
+      "bytes_before": 83188,
+      "bytes_after": 83447,
+      "lines": 2862,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-pickaxe-tycoon-73814003954154.lua",
+      "bytes_before": 39426,
+      "bytes_after": 39685,
+      "lines": 1189,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-pop-a-balloon-rng-108098130071760.lua",
+      "bytes_before": 62897,
+      "bytes_after": 63160,
+      "lines": 1976,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-pop-bubbles-72390882197205.lua",
+      "bytes_before": 98845,
+      "bytes_after": 99102,
+      "lines": 3034,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-power-a-city-127475054933484.lua",
+      "bytes_before": 59848,
+      "bytes_after": 60106,
+      "lines": 1847,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-power-your-city-81549698024226.lua",
+      "bytes_before": 53963,
+      "bytes_after": 54223,
+      "lines": 1632,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-press-a-keycap-128363460800653.lua",
+      "bytes_before": 42507,
+      "bytes_after": 42768,
+      "lines": 1323,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-project-aura-rng-129619503633658.lua",
+      "bytes_before": 81998,
+      "bytes_after": 82260,
+      "lines": 2639,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-prospecting-129827112113663.lua",
+      "bytes_before": 908277,
+      "bytes_after": 908529,
+      "lines": 26244,
+      "ui": "custom ScreenGui"
+    },
+    {
+      "path": "scripts/cachos-pull-a-lucky-fish-112781315318195.lua",
+      "bytes_before": 245938,
+      "bytes_after": 246201,
+      "lines": 6128,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-race-for-eggs-122278212262864.lua",
+      "bytes_before": 147910,
+      "bytes_after": 148169,
+      "lines": 4340,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-race-horses-79475945127283.lua",
+      "bytes_before": 71147,
+      "bytes_after": 71403,
+      "lines": 2312,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-raise-an-anomaly-71443883879110.lua",
+      "bytes_before": 100562,
+      "bytes_after": 100823,
+      "lines": 3334,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-re-heads-please-113099333239841.lua",
+      "bytes_before": 46851,
+      "bytes_after": 47113,
+      "lines": 1423,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-rebirth-frenzy-122598478666085.lua",
+      "bytes_before": 55287,
+      "bytes_after": 55547,
+      "lines": 1528,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-reeled-shoot-fish-137783946150684.lua",
+      "bytes_before": 76556,
+      "bytes_after": 76820,
+      "lines": 2213,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-rescue-animals-108454764166583.lua",
+      "bytes_before": 74156,
+      "bytes_after": 74417,
+      "lines": 2185,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-ride-a-pet-124216119978534.lua",
+      "bytes_before": 199574,
+      "bytes_after": 199830,
+      "lines": 6362,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-rng-vs-fruit-109123260298300.lua",
+      "bytes_before": 29582,
+      "bytes_after": 29840,
+      "lines": 893,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-a-fisherman-90920025162454.lua",
+      "bytes_before": 150271,
+      "bytes_after": 150532,
+      "lines": 3434,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-a-gnome-117539213094671.lua",
+      "bytes_before": 67619,
+      "bytes_after": 67877,
+      "lines": 1982,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-a-sorcerer-77876346348868.lua",
+      "bytes_before": 41949,
+      "bytes_after": 42209,
+      "lines": 1355,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-a-spirit-122719589673344.lua",
+      "bytes_before": 49874,
+      "bytes_after": 50133,
+      "lines": 1482,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-an-anime-93999763241813.lua",
+      "bytes_before": 23122,
+      "bytes_after": 23380,
+      "lines": 667,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-an-army-81043694560974.lua",
+      "bytes_before": 51395,
+      "bytes_after": 51652,
+      "lines": 1620,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-an-army-72216345408467.lua",
+      "bytes_before": 55884,
+      "bytes_after": 56142,
+      "lines": 1759,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-anime-fight-115690665465501.lua",
+      "bytes_before": 88658,
+      "bytes_after": 88922,
+      "lines": 2835,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-anime-to-fight-107653945083776.lua",
+      "bytes_before": 168859,
+      "bytes_after": 169125,
+      "lines": 4569,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-for-anime-107706720875645.lua",
+      "bytes_before": 19337,
+      "bytes_after": 19598,
+      "lines": 557,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-for-avatar-items-122854503601959.lua",
+      "bytes_before": 51422,
+      "bytes_after": 51689,
+      "lines": 1579,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-for-chiikawa-79237098587493.lua",
+      "bytes_before": 47219,
+      "bytes_after": 47483,
+      "lines": 1402,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-to-survive-132508978828159.lua",
+      "bytes_before": 94143,
+      "bytes_after": 94404,
+      "lines": 2124,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roll-your-army-83660368690441.lua",
+      "bytes_before": 56723,
+      "bytes_after": 56983,
+      "lines": 1726,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-roller-for-animals-88910662712492.lua",
+      "bytes_before": 88730,
+      "bytes_after": 88994,
+      "lines": 2996,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-runaways-118418618261207.lua",
+      "bytes_before": 92702,
+      "bytes_after": 92956,
+      "lines": 2795,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-saber-simulator-3823781113.lua",
+      "bytes_before": 223075,
+      "bytes_after": 223331,
+      "lines": 6316,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-sail-for-eggs-121443295737695.lua",
+      "bytes_before": 53637,
+      "bytes_after": 53896,
+      "lines": 1884,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-save-animals-123822115505881.lua",
+      "bytes_before": 35757,
+      "bytes_after": 36016,
+      "lines": 1126,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-save-your-cat-119427438574114.lua",
+      "bytes_before": 65222,
+      "bytes_after": 65481,
+      "lines": 1837,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-scale-slimy-fish-82208825713916.lua",
+      "bytes_before": 73829,
+      "bytes_after": 74082,
+      "lines": 2562,
+      "ui": "Sirius bundled"
+    },
+    {
+      "path": "scripts/cachos-sell-ores-122572082932179.lua",
+      "bytes_before": 63713,
+      "bytes_after": 63968,
+      "lines": 1896,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-shuffle-an-egg-79226825467411.lua",
+      "bytes_before": 237545,
+      "bytes_after": 237804,
+      "lines": 5374,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-slap-to-survive-112796336189704.lua",
+      "bytes_before": 26795,
+      "bytes_after": 27056,
+      "lines": 850,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-slime-card-collection-98951612738714.lua",
+      "bytes_before": 70590,
+      "bytes_after": 70856,
+      "lines": 2422,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-snatch-a-seed-121180020176396.lua",
+      "bytes_before": 64669,
+      "bytes_after": 64928,
+      "lines": 2106,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-snowcone-stand-76113971506717.lua",
+      "bytes_before": 39106,
+      "bytes_after": 39365,
+      "lines": 1122,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-spin-a-car-136758055891411.lua",
+      "bytes_before": 10052,
+      "bytes_after": 10308,
+      "lines": 290,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-spin-a-fem-91203203156283.lua",
+      "bytes_before": 31554,
+      "bytes_after": 31810,
+      "lines": 1009,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-spin-a-superhero-130602523975656.lua",
+      "bytes_before": 66177,
+      "bytes_after": 66440,
+      "lines": 1979,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-star-catchers-70654975563721.lua",
+      "bytes_before": 64856,
+      "bytes_after": 65114,
+      "lines": 2008,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-a-baby-egg-112530679555916.lua",
+      "bytes_before": 74347,
+      "bytes_after": 74609,
+      "lines": 2254,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-a-giant-egg-136448020793455.lua",
+      "bytes_before": 81022,
+      "bytes_after": 81285,
+      "lines": 2740,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-a-lucky-egg-123698673940079.lua",
+      "bytes_before": 63442,
+      "bytes_after": 63705,
+      "lines": 1999,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-a-mystery-egg-137789242313999.lua",
+      "bytes_before": 80232,
+      "bytes_after": 80497,
+      "lines": 2735,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-a-seed-for-bees-87026033799342.lua",
+      "bytes_before": 83596,
+      "bytes_after": 83862,
+      "lines": 2821,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-a-seed-122216176958450.lua",
+      "bytes_before": 80883,
+      "bytes_after": 81142,
+      "lines": 2633,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-a-tree-132958491990446.lua",
+      "bytes_before": 63021,
+      "bytes_after": 63280,
+      "lines": 2015,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-a-verity-107164765081465.lua",
+      "bytes_before": 124668,
+      "bytes_after": 124929,
+      "lines": 3964,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-an-anime-egg-76377501906469.lua",
+      "bytes_before": 140941,
+      "bytes_after": 141205,
+      "lines": 4048,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-an-egg-107778070777162.lua",
+      "bytes_before": 1115,
+      "bytes_after": 1373,
+      "lines": 19,
+      "ui": "custom/no GUI detected"
+    },
+    {
+      "path": "scripts/cachos-steal-an-egg-for-squishy-dumplings-134679507313109.lua",
+      "bytes_before": 88938,
+      "bytes_after": 89219,
+      "lines": 2998,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-an-employee-140623702130018.lua",
+      "bytes_before": 105699,
+      "bytes_after": 105962,
+      "lines": 3631,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-anime-eggs-fight-137671992254032.lua",
+      "bytes_before": 81278,
+      "bytes_after": 81549,
+      "lines": 2719,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-anime-eggs-96727061242653.lua",
+      "bytes_before": 69704,
+      "bytes_after": 69965,
+      "lines": 2252,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-brainrot-eggs-104469958681645.lua",
+      "bytes_before": 70068,
+      "bytes_after": 70333,
+      "lines": 2483,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-fish-eggs-99183404085821.lua",
+      "bytes_before": 57752,
+      "bytes_after": 58012,
+      "lines": 1789,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-from-the-rich-120475074479690.lua",
+      "bytes_before": 81495,
+      "bytes_after": 81761,
+      "lines": 2734,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-steal-the-museum-88237852656234.lua",
+      "bytes_before": 72167,
+      "bytes_after": 72428,
+      "lines": 2504,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-stop-the-bugs-117747672521418.lua",
+      "bytes_before": 35262,
+      "bytes_after": 35521,
+      "lines": 1182,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-storage-hunters-open-world-98800969324557.lua",
+      "bytes_before": 691500,
+      "bytes_after": 691771,
+      "lines": 18251,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-stream-a-cheese-pull-124293095895786.lua",
+      "bytes_before": 59740,
+      "bytes_after": 60007,
+      "lines": 1890,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-surf-and-rescue-120252007682677.lua",
+      "bytes_before": 120370,
+      "bytes_after": 120631,
+      "lines": 3666,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-surf-for-animals-96612869170793.lua",
+      "bytes_before": 250469,
+      "bytes_after": 250731,
+      "lines": 5347,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-survive-anime-arena-134900842931883.lua",
+      "bytes_before": 75220,
+      "bytes_after": 75485,
+      "lines": 1957,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-survive-lava-for-animals-127082754898219.lua",
+      "bytes_before": 219750,
+      "bytes_after": 220020,
+      "lines": 4900,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-survive-the-swarm-100227226022278.lua",
+      "bytes_before": 156281,
+      "bytes_after": 156544,
+      "lines": 4594,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-survive-zombie-arena-114204398207377.lua",
+      "bytes_before": 16567,
+      "bytes_after": 16825,
+      "lines": 534,
+      "ui": "Fluent bundled"
+    },
+    {
+      "path": "scripts/cachos-swim-for-eggs-113956654824187.lua",
+      "bytes_before": 66833,
+      "bytes_after": 67087,
+      "lines": 2317,
+      "ui": "OuroFlow bundled"
+    },
+    {
+      "path": "scripts/cachos-swing-for-eggs-109203247742910.lua",
+      "bytes_before": 79369,
+      "bytes_after": 79629,
+      "lines": 2665,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-sword-rng-x-88723502997575.lua",
+      "bytes_before": 240121,
+      "bytes_after": 240377,
+      "lines": 5206,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-tap-4-money-125410772032969.lua",
+      "bytes_before": 35192,
+      "bytes_after": 35449,
+      "lines": 1093,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-the-veil-125503525638054.lua",
+      "bytes_before": 75394,
+      "bytes_after": 75648,
+      "lines": 2388,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-throw-an-anime-coin-105198923939638.lua",
+      "bytes_before": 36832,
+      "bytes_after": 37098,
+      "lines": 1064,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-toss-a-dice-89614588403906.lua",
+      "bytes_before": 53738,
+      "bytes_after": 53994,
+      "lines": 1614,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-tower-vs-slimes-78417665924734.lua",
+      "bytes_before": 25727,
+      "bytes_after": 25987,
+      "lines": 696,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-tropical-resort-tycoon-2-12338455185.lua",
+      "bytes_before": 36087,
+      "bytes_after": 36353,
+      "lines": 1029,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-ultimate-tower-defense-5902977746.lua",
+      "bytes_before": 155430,
+      "bytes_after": 155693,
+      "lines": 4269,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-unbox-asmr-112233638491976.lua",
+      "bytes_before": 68401,
+      "bytes_after": 68658,
+      "lines": 2032,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-unfreeze-an-animal-88773823105878.lua",
+      "bytes_before": 58726,
+      "bytes_after": 58989,
+      "lines": 2132,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-where-seasons-pass-133288411471369.lua",
+      "bytes_before": 156209,
+      "bytes_after": 156473,
+      "lines": 4595,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-your-lumber-farm-84400387456675.lua",
+      "bytes_before": 74528,
+      "bytes_after": 74790,
+      "lines": 2101,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-zombies-80111254680893.lua",
+      "bytes_before": 66023,
+      "bytes_after": 66275,
+      "lines": 1946,
+      "ui": "Obsidian/Cachos Studio"
+    },
+    {
+      "path": "scripts/cachos-zone-defense-rng-71607575632633.lua",
+      "bytes_before": 50761,
+      "bytes_after": 51022,
+      "lines": 1606,
+      "ui": "Obsidian/Cachos Studio"
+    }
+  ]
+}

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Spinjitsu Escape
+-- PlaceId: 131910189515331
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local v__19, v__37
 local n8

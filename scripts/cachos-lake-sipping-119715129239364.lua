@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Lake Sipping
+-- PlaceId: 119715129239364
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Qt_6, Qt_8, Qt_9, Qt_11, Qt_12, Qt_13, Qt_15, Qt_16, Qt_19, Qt_23, Qt_29, Qt_33, Qt_39, Qt_43, Qt_49, Qt_53, Qt_59, Qt_68, Qt_71, Qt_77, Qt_86, Qt_95, Qt_104, Qt_113, Qt_122
 fns.connection7 = nil

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Motorcycle for Animals
+-- PlaceId: 84403204002907
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local client
 local ul
 local t2

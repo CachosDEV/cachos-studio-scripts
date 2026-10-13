@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Pop Bubbles!
+-- PlaceId: 72390882197205
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Fg_3, Fg_6, Fg_13, Fg_21, Fg_24, Fg_27
 local uv

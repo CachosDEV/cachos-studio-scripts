@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll An Army!
+-- PlaceId: 72216345408467
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local v5_9, v5_15, v5_18, v5_25
 local Options

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Oil Empire
+-- PlaceId: 107095834793267
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local DrillShop
 local ke

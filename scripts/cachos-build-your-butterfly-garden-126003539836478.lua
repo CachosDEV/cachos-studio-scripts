@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: BUILD your Butterfly Garden
+-- PlaceId: 126003539836478
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wv_8
 local n_

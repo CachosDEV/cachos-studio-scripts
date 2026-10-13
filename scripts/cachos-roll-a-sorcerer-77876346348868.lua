@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll a Sorcerer
+-- PlaceId: 77876346348868
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local kf
 local kC
 local ki

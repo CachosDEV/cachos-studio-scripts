@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Pop a Balloon RNG
+-- PlaceId: 108098130071760
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local p2
 local o2
 local ClientPlayerData

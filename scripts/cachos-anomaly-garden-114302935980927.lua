@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anomaly Garden
+-- PlaceId: 114302935980927
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local sy
 local sB
 local sX

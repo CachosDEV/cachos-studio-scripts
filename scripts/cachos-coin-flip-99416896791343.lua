@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Coin Flip
+-- PlaceId: 99416896791343
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local hT
 local hA
 local Label2

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Cows RNG
+-- PlaceId: 130190834497309
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local uL_3, ThemeManager, uL_6, uL_7, uL_8, uL_19, uL_20, uL_23, uL_25, uL_26, uL_27, uL_30, uL_34, uL_35, uL_36, uL_39, uL_40
 local mW

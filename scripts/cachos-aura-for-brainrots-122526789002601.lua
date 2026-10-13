@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Aura For Brainrots
+-- PlaceId: 122526789002601
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local uz_1, uz_2, uz_7, uz_9, uz_10, uz_11, uz_13, uz_18, uz_21, uz_22, uz_23, uz_25, uz_29, uz_32
 local ItemConfigurations

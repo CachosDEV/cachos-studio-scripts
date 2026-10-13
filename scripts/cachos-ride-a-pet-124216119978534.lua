@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Ride A Pet
+-- PlaceId: 124216119978534
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local az7_10, az7_11, az7_13, az7_14, az7_15, az7_17, az7_18, az7_19, az7_20, az7_21, az7_22, az7_23, az7_25, az7_27, az7_28, az7_29, az7_32, az7_34, az7_35, CollectionService, az7_39, az7_40, State, az7_42, az7_43, az7_44, az7_45, az7_46, az7_47, az7_49, az7_51, az7_52, az7_54, az7_56, az7_57, az7_58, az7_60, az7_61, az7_62, az7_63, az7_69
 fns.az7_1 = nil

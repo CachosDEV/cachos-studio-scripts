@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: RUNAWAYS
+-- PlaceId: 118418618261207
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local FlowClient
 local vs
 local LocalPlayer

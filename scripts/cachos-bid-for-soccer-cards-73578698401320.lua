@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Bid For Soccer Cards!
+-- PlaceId: 73578698401320
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local vW_2, vW_4, vW_5, vW_7, vW_10, vW_13, vW_14, vW_18, vW_19, MoneyBroadcast
 local ox

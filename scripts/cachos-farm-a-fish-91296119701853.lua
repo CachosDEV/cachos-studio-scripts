@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Farm a Fish
+-- PlaceId: 91296119701853
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local l6
 local lO
 local mv

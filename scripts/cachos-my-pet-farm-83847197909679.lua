@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Pet Farm
+-- PlaceId: 83847197909679
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local VirtualUser = game:GetService("VirtualUser")
@@ -187,21 +194,21 @@ if CrateRollEffect and CrateRollPurchaseRequest then
     CrateRollEffect.OnClientEvent:Connect(function(data)
         if type(data) ~= "table" then return end
         if not Toggles.AutoRoll or not Toggles.AutoRoll.Value then return end
-        
+
         if data.action == "showOffers" and type(data.offers) == "table" then
             if data.ownerUserId ~= LocalPlayer.UserId then return end
-            
+
             for _, offer in ipairs(data.offers) do
                 if type(offer) == "table" and offer.offerId then
                     local rarity = offer.rarity
                     local shouldPurchase = false
-                    
+
                     if Toggles.RollAutoPurchase and Toggles.RollAutoPurchase.Value then
                         if next(selectedRarities) == nil or selectedRarities[rarity] then
                             shouldPurchase = true
                         end
                     end
-                    
+
                     if shouldPurchase then
                         if not purchasedOfferIds[offer.offerId] then
                             purchasedOfferIds[offer.offerId] = true
@@ -230,7 +237,7 @@ local function firePromptsByTheme(theme, filter, tpToPrompts)
     if not plot then
         return
     end
-    
+
     local hrp = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
     local oldCFrame = hrp and hrp.CFrame
     local didTeleport = false
@@ -261,7 +268,7 @@ local function firePromptsByTheme(theme, filter, tpToPrompts)
                         didTeleport = true
                     end
                 end
-                
+
                 if descendant:IsDescendantOf(workspace) then
                     pcall(fireproximityprompt, descendant)
                     task.wait(0.08)

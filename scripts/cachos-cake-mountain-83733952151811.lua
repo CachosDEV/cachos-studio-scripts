@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Cake Mountain
+-- PlaceId: 83733952151811
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

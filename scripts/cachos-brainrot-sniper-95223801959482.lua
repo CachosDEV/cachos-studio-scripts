@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Brainrot Sniper
+-- PlaceId: 95223801959482
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local k8
 local Label
 local lx

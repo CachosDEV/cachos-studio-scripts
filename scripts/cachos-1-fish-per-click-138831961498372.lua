@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Fish Per Click
+-- PlaceId: 138831961498372
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wy_25, RunService, wy_30, wy_42, wy_44, wy_47
 local oC

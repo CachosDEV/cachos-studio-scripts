@@ -1,4 +1,11 @@
 --!nonstrict
+-- Cachos Studio :: reviewed script
+-- Game: donation
+-- PlaceId: unrouted
+-- UI: custom/no GUI detected
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 
 --[[
     Ouroboros — donation popup.

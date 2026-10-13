@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: 50 Player BINGO!
+-- PlaceId: 131479356121251
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local gJ
 local gn
 local VirtualUser

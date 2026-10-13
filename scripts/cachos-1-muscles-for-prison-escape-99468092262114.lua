@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Muscles for Prison Escape
+-- PlaceId: 99468092262114
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local ss_2
 local lT
 local me

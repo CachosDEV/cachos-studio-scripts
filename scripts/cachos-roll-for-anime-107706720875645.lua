@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll for Anime!
+-- PlaceId: 107706720875645
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local eI
 local eP
 local CollectionService

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Speed Monkey Escape
+-- PlaceId: 114697347887839
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local hd
 local gV
 local hg

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Jump Beanstalk for Brainrots!
+-- PlaceId: 82890021382517
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local si_2, si_3, si_4, si_5, si_7, si_8, si_9, si_10, si_11, si_13
 local li

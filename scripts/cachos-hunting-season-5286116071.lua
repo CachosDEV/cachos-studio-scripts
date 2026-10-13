@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Hunting Season
+-- PlaceId: 5286116071
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local xP
 local wP

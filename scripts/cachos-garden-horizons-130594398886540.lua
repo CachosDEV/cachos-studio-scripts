@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Garden Horizons
+-- PlaceId: 130594398886540
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local rX_2_1
 local Options
 local lw

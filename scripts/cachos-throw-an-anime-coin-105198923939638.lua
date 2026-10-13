@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Throw an Anime Coin!
+-- PlaceId: 105198923939638
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local iu
 local jb
 local iT

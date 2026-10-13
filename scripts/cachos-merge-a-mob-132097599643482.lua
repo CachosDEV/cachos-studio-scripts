@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Merge a Mob!
+-- PlaceId: 132097599643482
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local f1
 local gn
 local f4

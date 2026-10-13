@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Horse Evolution
+-- PlaceId: 107765897665486
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local y6
 local zv

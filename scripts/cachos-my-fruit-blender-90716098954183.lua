@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Fruit Blender
+-- PlaceId: 90716098954183
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local zP_6, zP_12, zP_15, zP_16, FarmGroup, zP_20, MovementGroup, zP_27, zP_28, JuiceGroup, zP_35, zP_36, zP_40, zP_45, zP_50
 local p0

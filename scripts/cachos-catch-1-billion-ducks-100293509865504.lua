@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Catch 1 Billion Ducks
+-- PlaceId: 100293509865504
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Nu_1, Nu_2, Nu_4, Nu_6, Nu_7, Nu_8, Nu_9, Nu_10, Nu_11, Nu_13, Nu_14, LocalPlayer, Nu_17, Nu_19, Nu_20, Nu_22, Nu_23, Nu_24, Nu_26, Nu_29, Nu_32, Nu_34, Nu_37, Nu_40, Nu_43, Nu_46, Nu_49, Nu_52, Nu_55, Nu_58, Nu_61, QueueGroup
 Nu_1 = nil

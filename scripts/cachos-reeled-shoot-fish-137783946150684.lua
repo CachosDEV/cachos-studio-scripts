@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: REELED Shoot Fish!
+-- PlaceId: 137783946150684
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local vA_1, vA_2, vA_4, vA_5, vA_7, vA_8, vA_10, vA_13, vA_14, vA_15, vA_17, vA_19, vA_20, vA_21, vA_22, vA_23
 local ns

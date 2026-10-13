@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Grow It RNG
+-- PlaceId: 78292727217500
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local repo = "https://raw.githubusercontent.com/joustingmatch/ObsidianUltra/main/"
 local Library = (getgenv and getgenv() or shared).CachosStudioModules.Library()
 

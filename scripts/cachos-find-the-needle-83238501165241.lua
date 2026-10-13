@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Find the Needle!
+-- PlaceId: 83238501165241
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local l4
 local Bridge
 local l7

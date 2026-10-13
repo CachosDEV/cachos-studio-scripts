@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Clean all the Leaves
+-- PlaceId: 92637789841354
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local AR_1, AR_3, AR_6, AR_9, AR_11, AR_15, AR_16, AR_17, AR_18, AR_20, AR_21, AR_23, AR_24, AR_26, AR_29, AR_30, AR_32, AR_37, AR_40, AR_51, AR_53
 AR_3 = nil

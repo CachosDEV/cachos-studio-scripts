@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Cultivation Evermortal
+-- PlaceId: 96179204081384
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local tZ
 local un
 local t4

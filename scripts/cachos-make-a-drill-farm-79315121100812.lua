@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Make a Drill Farm
+-- PlaceId: 79315121100812
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local gr
 local gN
 local gQ

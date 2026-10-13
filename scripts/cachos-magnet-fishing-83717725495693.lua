@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Magnet Fishing
+-- PlaceId: 83717725495693
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Toggles, UnsnagTap, Dn_9, Dn_16, Dn_18, Dn_20, Dn_29, Dn_32
 Toggles = nil
 UnsnagTap = nil

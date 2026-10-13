@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build a Zoo
+-- PlaceId: 105555311806207
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local h5
 local iQ
 local Library

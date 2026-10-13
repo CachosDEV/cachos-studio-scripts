@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Moo Farm
+-- PlaceId: 134807373415131
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local CollectionService = game:GetService("CollectionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

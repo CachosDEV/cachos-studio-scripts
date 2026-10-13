@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Dino Hunters
+-- PlaceId: 119031147890918
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local tu_1
 local lM
 local UserInputService

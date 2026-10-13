@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: BreakDoor
+-- PlaceId: 119004860768199
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

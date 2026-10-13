@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Farmers Garden
+-- PlaceId: 83581240126371
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Bp_9_1
 local Bp_5_4
 local qA

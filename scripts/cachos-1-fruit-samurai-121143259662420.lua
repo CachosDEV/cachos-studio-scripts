@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Fruit Samurai
+-- PlaceId: 121143259662420
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local x4_1, x4_5, x4_7, x4_12, x4_14, x4_16, x4_18, x4_21, x4_24, x4_31, x4_33, x4_35, x4_36, x4_38, x4_39, ScriptsGroup, x4_47, x4_49, x4_51
 local oy

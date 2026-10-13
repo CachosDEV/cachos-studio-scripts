@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Drive-Thru Empire
+-- PlaceId: 88271351034688
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local rJ
 local sq
 local r4

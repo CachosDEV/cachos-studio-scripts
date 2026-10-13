@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Sell Ores
+-- PlaceId: 122572082932179
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wF_1, wF_3, wF_4, wF_5, wF_7, wF_9, wF_15, wF_17, UserInputService, wF_19, wF_21, wF_24, wF_27, wF_29, wF_31, wF_32, wF_33, wF_34, wF_36
 local oG

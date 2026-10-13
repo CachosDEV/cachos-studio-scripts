@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Collect Cars and Race
+-- PlaceId: 120579221585812
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local B4_8, B4_14, B4_18, B4_19, B4_20, B4_22, B4_26, B4_33
 local PlotClient

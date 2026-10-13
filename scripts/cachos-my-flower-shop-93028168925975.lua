@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Flower Shop
+-- PlaceId: 93028168925975
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local yV_6, yV_8, yV_10, ShopGroup, MenuGroup, yV_27, yV_29, yV_30, yV_32
 local nG

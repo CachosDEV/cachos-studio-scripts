@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Catch Dragons To Defend
+-- PlaceId: 102392235728099
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local sK
 local CoreGui
 local sN

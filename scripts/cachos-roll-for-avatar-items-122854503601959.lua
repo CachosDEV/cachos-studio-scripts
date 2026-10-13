@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll For Avatar Items
+-- PlaceId: 122854503601959
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local vx_6, vx_19
 local ow

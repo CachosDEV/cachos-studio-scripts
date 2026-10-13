@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Deep Fishing
+-- PlaceId: 132239307080610
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Eq_2, Eq_4, Eq_5, Eq_6, Eq_8, Eq_16, Eq_26, RewardsGroup, Eq_46, Eq_55
 Eq_2 = nil

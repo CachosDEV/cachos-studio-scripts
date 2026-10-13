@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Fish an Anime RNG
+-- PlaceId: 74729868188364
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Constants
 local A5
 local BC

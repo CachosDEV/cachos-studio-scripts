@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Shuffle an Egg
+-- PlaceId: 79226825467411
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local NA_43
 local zG

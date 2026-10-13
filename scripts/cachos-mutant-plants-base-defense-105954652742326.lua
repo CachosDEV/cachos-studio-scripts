@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Mutant Plants Base Defense
+-- PlaceId: 105954652742326
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UserInputService = game:GetService("UserInputService")

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Dream Keyboard Escape
+-- PlaceId: 129350834403009
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local vL_3, vL_4, vL_5, vL_6, vL_8, vL_9, vL_10, vL_11, vL_13, vL_15, vL_16, vL_17, vL_18, vL_21, vL_22, vL_24, vL_26, vL_27, vL_28, vL_29, vL_30, vL_31
 local oz

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Merge & Dig Simulator!
+-- PlaceId: 74569490529875
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local AT_7, AT_8, AT_10, AT_17, AT_19, AT_21, AT_24, AT_33, AT_34
 local rd
 local qj

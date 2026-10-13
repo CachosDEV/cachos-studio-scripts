@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Power a City
+-- PlaceId: 127475054933484
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wA_6, wA_9, wA_22
 local mL

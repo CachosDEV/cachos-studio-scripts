@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal From The Rich!
+-- PlaceId: 120475074479690
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local FO_16
 local uJ

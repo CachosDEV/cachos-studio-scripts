@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Jump for Animals!
+-- PlaceId: 126870639873289
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Toggles, acB_9, acB_10, acB_12, acB_14, Label4, acB_16, PlaceEggRequest, acB_20, acB_21, acB_24, acB_26, acB_27, acB_30, acB_32, acB_33, acB_34, acB_35, acB_36, acB_38, acB_39, acB_40, acB_43, acB_45, acB_48, acB_51, acB_59, acB_62, acB_65, acB_74, acB_77, acB_80, acB_85, acB_88
 fns.Label6 = nil

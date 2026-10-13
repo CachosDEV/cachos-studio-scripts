@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Pet Forest
+-- PlaceId: 83863726584027
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local tF_3, tF_4, tF_6, tF_8, tF_10, tF_12, tF_15, tF_17, tF_22, tF_25
 local mB

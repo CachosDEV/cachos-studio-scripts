@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Defend Your Treehouse!
+-- PlaceId: 100641654440407
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Rg_1, Rg_2, Rg_4, Rg_5, Rg_7, Rg_8, Rg_10, Rg_13, Rg_16, Rg_23, Rg_25, Rg_27, Players, Rg_29, Rg_31, Rg_39, Rg_44, Rg_47
 Rg_1 = nil

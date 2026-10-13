@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Merge a Dino
+-- PlaceId: 84546345526935
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local p7
 local qt
 local pP

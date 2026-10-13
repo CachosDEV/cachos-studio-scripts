@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Save Animals!
+-- PlaceId: 123822115505881
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local i7
 local iP
 local iw

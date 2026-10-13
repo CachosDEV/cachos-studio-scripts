@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal Anime Eggs
+-- PlaceId: 96727061242653
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local qh
 local pW
 local ph

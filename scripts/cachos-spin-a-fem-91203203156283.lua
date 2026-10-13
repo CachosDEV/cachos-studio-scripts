@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Spin a Fem!
+-- PlaceId: 91203203156283
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local i2
 local connection2
 local i8

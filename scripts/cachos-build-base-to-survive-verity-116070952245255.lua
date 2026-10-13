@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build Base to Survive VERITY
+-- PlaceId: 116070952245255
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local je
 local Library
 local jA

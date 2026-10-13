@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Forge and Sell
+-- PlaceId: 95942361689346
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local mN
 local mu
 local LocalPlayer

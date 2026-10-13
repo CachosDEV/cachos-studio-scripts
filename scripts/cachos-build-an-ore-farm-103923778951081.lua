@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build An Ore Farm
+-- PlaceId: 103923778951081
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local uQ_1, uQ_2, uQ_4, uQ_5, UserInputService, uQ_7, uQ_11, uQ_12, uQ_14, uQ_15, uQ_16, uQ_19, uQ_21, uQ_23, MinerDataChanged, uQ_26, uQ_27
 local n2

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: The Veil
+-- PlaceId: 125503525638054
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 --[[
     Cachos Studio - The Veil (placeId 125503525638054)
 ]]

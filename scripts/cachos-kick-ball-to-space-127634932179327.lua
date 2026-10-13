@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Kick Ball to Space
+-- PlaceId: 127634932179327
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local PackConfig
 local BallShop
 local eZ

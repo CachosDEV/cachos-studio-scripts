@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build the Pyramid!
+-- PlaceId: 123720558354386
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local C4_4_1, C4_4_3
 local sr
 local s8

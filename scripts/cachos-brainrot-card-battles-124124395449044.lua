@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Brainrot Card Battles
+-- PlaceId: 124124395449044
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local p9
 local qc
 local pR

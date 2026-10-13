@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Dig Into Secrets
+-- PlaceId: 119409763193569
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local ClientNet
 local ms
 local lO

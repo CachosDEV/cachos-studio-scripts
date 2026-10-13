@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Parkour Pandemic
+-- PlaceId: 128718867767713
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local s1_23, s1_26
 local l9

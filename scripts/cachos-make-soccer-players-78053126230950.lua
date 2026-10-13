@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Make Soccer Players
+-- PlaceId: 78053126230950
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local xa_12, xa_25
 local ot

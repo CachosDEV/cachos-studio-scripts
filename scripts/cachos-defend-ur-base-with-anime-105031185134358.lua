@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Defend ur base with anime
+-- PlaceId: 105031185134358
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local pC
 local oC
 local bodyVelocity

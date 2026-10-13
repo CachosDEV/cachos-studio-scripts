@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Surf And Rescue
+-- PlaceId: 120252007682677
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Kw_2, Kw_4, Kw_12, Kw_14, Kw_16, Kw_18, Kw_23, Kw_24, Kw_26, Kw_27
 local xc

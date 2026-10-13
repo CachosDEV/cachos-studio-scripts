@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Swim For Eggs!
+-- PlaceId: 113956654824187
+-- UI: OuroFlow bundled
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Aq_29
 local r6

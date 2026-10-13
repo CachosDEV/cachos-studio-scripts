@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Survive Lava for Animals
+-- PlaceId: 127082754898219
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Kh_29_1
 local Kh_26_1

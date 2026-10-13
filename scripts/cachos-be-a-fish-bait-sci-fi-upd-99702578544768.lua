@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: BE A FISH BAIT! SCI-FI UPD
+-- PlaceId: 99702578544768
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local h1
 local iL
 local is

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Break Tape For Brainrots
+-- PlaceId: 104339804279870
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local iv
 local jc
 local iU

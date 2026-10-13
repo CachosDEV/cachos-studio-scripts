@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Bee ReMasters
+-- PlaceId: unrouted
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local TP_3, TP_5, TP_6, TP_7, TP_9, TP_11, TP_12, ReplicatedStorage, Saving, UserInputService, Window, TP_24, TP_25, TP_26, TP_27, TP_38, TP_49, TP_57, TP_60, TP_63, TP_71, TP_74
 TP_3 = nil

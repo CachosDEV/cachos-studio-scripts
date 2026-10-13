@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Defend Your Animals!
+-- PlaceId: 84210392569061
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Sp_13, Sp_14, Sp_15, Sp_16, Sp_17, Sp_18, Sp_19, Sp_20, Sp_22, Animal_Remove, Sp_25, Sp_26, Sp_28, Sp_29, Research_Sync, Sp_31, Sp_32, Sp_34, Sp_35, Sp_36, Sp_37, Sp_39, Sp_41, Animal_Clear, Sp_44, Sp_45, uid, Sp_48, Sp_50, Sp_54, Sp_57, Sp_60, Sp_63, Sp_64, Weapon_Sync, Sp_70, Sp_71, Sp_73, Sp_74, Sp_77, Sp_80, Sp_83, Sp_84
 fns.Sp_3 = nil

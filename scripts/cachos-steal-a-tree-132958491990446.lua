@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal A Tree!
+-- PlaceId: 132958491990446
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local pi
 local pH
 local qo

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anime War RNG
+-- PlaceId: 79908803570376
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local qs_2, qs_4, qs_5, qs_6, qs_7, qs_8, qs_10, qs_11, ItemsSync, qs_13, qs_15, qs_16, qs_19, qs_20, qs_22, qs_23
 local ko

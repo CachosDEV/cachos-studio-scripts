@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Drain Water Per Click
+-- PlaceId: 103883942725157
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local LocalPlayer, zt_2, zt_9, FeaturesGroup, zt_20, zt_31, ProgressGroup, zt_43, zt_53, zt_57, EggsGroup
 LocalPlayer = nil

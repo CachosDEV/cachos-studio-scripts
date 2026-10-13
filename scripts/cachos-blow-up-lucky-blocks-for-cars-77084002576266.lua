@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Blow up Lucky Blocks For Cars
+-- PlaceId: 77084002576266
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local lO
 local mv
 local LocalPlayer

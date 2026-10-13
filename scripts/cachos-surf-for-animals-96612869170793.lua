@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Surf for Animals!
+-- PlaceId: 96612869170793
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local K3_8, K3_9, K3_10, K3_18, K3_20, K3_25, K3_28, K3_29
 local yq

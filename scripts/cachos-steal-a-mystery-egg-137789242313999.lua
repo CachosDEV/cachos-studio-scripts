@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal a Mystery Egg
+-- PlaceId: 137789242313999
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Window, Modules, FP_6, FP_9, FP_12
 local uB

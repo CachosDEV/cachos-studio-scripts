@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Snatch a Seed
+-- PlaceId: 121180020176396
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local GameInfoGroup, Bq_15, Bq_24, Bq_37, Bq_57, Bq_70, Bq_79
 local qD

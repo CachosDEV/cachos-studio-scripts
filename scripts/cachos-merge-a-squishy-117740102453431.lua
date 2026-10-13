@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Merge a Squishy
+-- PlaceId: 117740102453431
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local iz
 local iY
 local connection

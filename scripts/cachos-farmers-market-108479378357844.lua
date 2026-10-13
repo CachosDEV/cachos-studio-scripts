@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Farmers Market
+-- PlaceId: 108479378357844
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local mJ
 local nq
 local nP

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Ultimate Tower Defense
+-- PlaceId: 5902977746
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local vn
 local v4

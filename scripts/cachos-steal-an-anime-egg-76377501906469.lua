@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal an Anime Egg!
+-- PlaceId: 76377501906469
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Lv_1, Lv_3, Lv_4, Lv_6, Lv_7, Lv_9, Lv_10, Lv_11, Lv_12, Lv_13, Lv_14, Lv_15
 local wx

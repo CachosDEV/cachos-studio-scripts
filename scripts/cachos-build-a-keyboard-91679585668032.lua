@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build a Keyboard
+-- PlaceId: 91679585668032
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fI
 local fm
 local WorkerConfiguration

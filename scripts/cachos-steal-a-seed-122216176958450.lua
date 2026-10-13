@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal A Seed!
+-- PlaceId: 122216176958450
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local ue
 local tW

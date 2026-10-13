@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Collect 1 Million Items
+-- PlaceId: 133363783004873
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local ThemeManager
 local lQ
 local Library2

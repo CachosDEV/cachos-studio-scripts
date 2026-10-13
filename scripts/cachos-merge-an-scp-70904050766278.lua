@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Merge an SCP
+-- PlaceId: 70904050766278
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local t_
 local uH

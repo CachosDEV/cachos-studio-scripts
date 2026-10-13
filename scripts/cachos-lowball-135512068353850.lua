@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Lowball
+-- PlaceId: 135512068353850
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local sT_2, sT_3, sT_5, sT_6, sT_9, sT_10, sT_11, sT_12, sT_13, sT_15, sT_16, sT_17, sT_19, sT_20, sT_22, sT_23, sT_24, sT_25
 local l0

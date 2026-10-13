@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Evomon
+-- PlaceId: 134381727982611
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local function fn48(b, c)
     local aE_1
     local aD_1, aD_2

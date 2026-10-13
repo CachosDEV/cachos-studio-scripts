@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Power Your City
+-- PlaceId: 81549698024226
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local PanelsGroup2, FarmGroup, MiscGroup2, PowerGroup, MenuGroup
 local RequestSpeedUpgrade

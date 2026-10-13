@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Kawaii Anime RNG
+-- PlaceId: 104263864475588
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local q8_1, GameInfoGroup, q8_9
 local lM
 local kM

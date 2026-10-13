@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Become a Billionaire
+-- PlaceId: 90704250333473
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fU
 local PlotNetwork
 local VirtualUser

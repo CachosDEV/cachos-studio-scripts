@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anime Dice
+-- PlaceId: 113290951185459
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local abs_20, abs_22, abs_24, abs_25, abs_28, UnitUtil, abs_31, abs_34, abs_36, abs_37, abs_39, abs_40, abs_42, abs_43, PlayerGui, abs_50, abs_53, abs_56, abs_60, abs_63, abs_67, abs_72, abs_76, abs_80, abs_83, abs_85, abs_89, abs_93, abs_96
 fns.abs_1 = nil

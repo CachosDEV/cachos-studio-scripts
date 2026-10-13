@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Endless Tower Defense
+-- PlaceId: 109792243252518
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local ta
 local tS
 local tz

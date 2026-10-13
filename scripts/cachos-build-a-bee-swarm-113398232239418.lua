@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build a Bee Swarm
+-- PlaceId: 113398232239418
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local x4_10, x4_11, x4_20, x4_26, x4_28, x4_29
 local x4_17_3, x4_17_4
 local pj

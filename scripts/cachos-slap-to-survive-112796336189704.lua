@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Slap to Survive
+-- PlaceId: 112796336189704
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UserInputService = game:GetService("UserInputService")

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Snowcone Stand
+-- PlaceId: 76113971506717
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local connection
 local PlotSystem
 local jb

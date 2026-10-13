@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Load The Truck!
+-- PlaceId: 120491560796071
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fW
 local gh
 local fD

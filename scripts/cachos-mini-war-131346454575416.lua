@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Mini War
+-- PlaceId: 131346454575416
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Ae_2, Ae_3, Ae_4, Ae_12, Ae_13, Ae_15, Ae_16, Ae_18, Ae_19, Ae_21, Ae_31, Ae_33, Ae_35, Ae_37, Ae_41, GeneralsGroup, Ae_43, Ae_45, Ae_47, Ae_49
 Ae_2 = nil

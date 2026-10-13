@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Swing For Eggs
+-- PlaceId: 109203247742910
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local wz
 local wg
 local vY

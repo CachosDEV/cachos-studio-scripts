@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Survive Zombie Arena
+-- PlaceId: 114204398207377
+-- UI: Fluent bundled
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local LocalPlayer = Players.LocalPlayer

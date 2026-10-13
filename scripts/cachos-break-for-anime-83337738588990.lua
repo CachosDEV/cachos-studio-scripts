@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Break For Anime!
+-- PlaceId: 83337738588990
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Pickaxe2
 local o3
 local oq

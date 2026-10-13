@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Catch And Tame!
+-- PlaceId: 96645548064314
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local ME_27, ME_29, ME_30, ME_31, ME_32, ME_33, ME_35, ME_36, ME_38, ME_41, ME_47, ME_50, ME_54, ME_59, ME_62, ME_65, ME_67, ME_70, BuyFoodGroup, ME_73, ScriptsGroup, ME_76, ME_78, ME_82, ME_85, ME_88, ME_90
 fns.ME_1 = nil

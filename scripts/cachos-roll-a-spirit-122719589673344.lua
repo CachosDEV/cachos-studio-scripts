@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll a Spirit
+-- PlaceId: 122719589673344
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Toggles
 local kc
 local jU

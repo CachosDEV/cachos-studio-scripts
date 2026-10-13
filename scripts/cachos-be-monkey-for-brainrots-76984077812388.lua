@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Be Monkey For Brainrots!
+-- PlaceId: 76984077812388
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local lW
 local kW

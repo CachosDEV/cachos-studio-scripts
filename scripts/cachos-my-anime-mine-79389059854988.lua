@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Anime Mine
+-- PlaceId: 79389059854988
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local tn
 local s4
 local tq

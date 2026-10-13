@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Drill Blocks for Brainrots
+-- PlaceId: 78177131121429
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local xS_27
 local oA

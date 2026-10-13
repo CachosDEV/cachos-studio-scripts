@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Giant Farm
+-- PlaceId: 98906051062892
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local n7
 local nq
 local nP

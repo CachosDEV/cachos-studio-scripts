@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Cliff Mansion Tycoon
+-- PlaceId: 88015023779741
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local HttpService
 local hJ
 local hq

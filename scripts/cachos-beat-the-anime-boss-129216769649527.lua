@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Beat the Anime Boss!
+-- PlaceId: 129216769649527
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local mc
 local my
 local SellInventory

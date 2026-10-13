@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Cook & Sell!
+-- PlaceId: 106131416903029
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local vB_1, GameInfoGroup, vB_7, vB_9, vB_16, vB_18, vB_19, vB_21, vB_22, vB_26, vB_28, MovementGroup
 local nr

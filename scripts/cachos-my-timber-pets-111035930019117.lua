@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Timber Pets!
+-- PlaceId: 111035930019117
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local oj
 local n0
 local oL

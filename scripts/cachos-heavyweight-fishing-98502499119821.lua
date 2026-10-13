@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Heavyweight Fishing
+-- PlaceId: 98502499119821
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local akR_121, akR_131, onCharacterAdded, akR_141
 fns.akR_4 = nil

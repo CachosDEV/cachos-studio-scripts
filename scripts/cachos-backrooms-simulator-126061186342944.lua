@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Backrooms Simulator
+-- PlaceId: 126061186342944
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local E8_3, E8_7, E8_12, E8_16, E8_18, E8_20, E8_24, E8_29, E8_34, E8_40, E8_42
 local un

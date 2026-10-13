@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Pan The River
+-- PlaceId: 102484409263550
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local se_6, se_8, se_14, se_17, se_21
 local k6

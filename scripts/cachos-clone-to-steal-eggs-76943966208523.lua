@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Clone to Steal Eggs
+-- PlaceId: 76943966208523
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Qz_4, Qz_6, Qz_14, Qz_15, Qz_25, Qz_26
 local Aw

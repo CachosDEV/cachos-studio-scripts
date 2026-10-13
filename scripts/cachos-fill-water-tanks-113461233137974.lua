@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Fill Water Tanks
+-- PlaceId: 113461233137974
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local tn_8, tn_10, tn_11, tn_14, tn_20, tn_22, tn_25, tn_30, tn_33, tn_35, tn_37, tn_38, tn_39
 local WaterPipeUpgradeConfig

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 DMG Per Revive
+-- PlaceId: 110806816173057
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local tz_3, tz_4, tz_8, tz_10, tz_13, tz_14, tz_16
 local mM

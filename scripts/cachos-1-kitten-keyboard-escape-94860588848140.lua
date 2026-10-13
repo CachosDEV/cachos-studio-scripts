@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Kitten Keyboard Escape
+-- PlaceId: 94860588848140
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local tb_4, tb_13, tb_18, tb_20, ThemeManager, tb_25, tb_27
 local Toggles

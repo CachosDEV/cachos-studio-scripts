@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anime Astral Simulator
+-- PlaceId: 102072869879193
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 if not game:IsLoaded() then
 	game.Loaded:Wait()
 end

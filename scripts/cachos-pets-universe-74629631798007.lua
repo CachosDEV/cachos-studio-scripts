@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Pets Universe!
+-- PlaceId: 74629631798007
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local KO_2, ClickCooldownModule, KO_14, KO_25
 local yI

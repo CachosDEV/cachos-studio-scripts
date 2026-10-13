@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Jump To Steal Slime
+-- PlaceId: 131776241538171
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local vi_1, vi_3
 local Upgrade_Carry_Limit
 local LocalPlayer

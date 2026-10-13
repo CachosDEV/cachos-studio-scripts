@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Pull a Lucky Fish
+-- PlaceId: 112781315318195
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local AutoPlaceBestFishGroup, ahH_3, ahH_6, ahH_14, AutoUpgradesGroup, ahH_19, ahH_22, ahH_26, ahH_29, ahH_33, AutoGemShopGroup, ahH_37, ahH_45, AutoBuyWeightsGroup, ahH_49, ahH_53, AutoSummonWeatherGroup, ahH_62, AutoRebirthGroup, ahH_66, ahH_77, ahH_82, ahH_86, ahH_90, ahH_92
 local Iv

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Zombies
+-- PlaceId: 80111254680893
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local ScriptsGroup, xF_3, MovementGroup, xF_25, SilentAimGroup, SocialsGroup, GearUpgradesGroup, xF_39, WeaponModsGroup
 local pu

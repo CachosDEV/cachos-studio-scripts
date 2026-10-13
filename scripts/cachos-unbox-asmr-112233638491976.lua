@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Unbox ASMR!
+-- PlaceId: 112233638491976
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local xd_1
 local oT
 local HttpService

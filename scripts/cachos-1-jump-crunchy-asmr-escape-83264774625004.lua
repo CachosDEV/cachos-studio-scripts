@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Jump Crunchy ASMR Escape!
+-- PlaceId: 83264774625004
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local xi_9, DonationsGroup, FlyGroup, xi_25, RunService
 local ov

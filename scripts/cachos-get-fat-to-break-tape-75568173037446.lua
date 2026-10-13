@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Get Fat to Break Tape
+-- PlaceId: 75568173037446
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local r7_11
 local r7_3_2
 local Toggles

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build a Garden Tower
+-- PlaceId: 115035699922620
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local tE_14, tE_17
 local tE_22_1, tE_22_9
 local VariationUtility

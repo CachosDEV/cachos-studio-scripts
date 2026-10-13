@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Mine RNG
+-- PlaceId: 84745252930301
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Label
 local EquipPickaxeRemote
 local h8

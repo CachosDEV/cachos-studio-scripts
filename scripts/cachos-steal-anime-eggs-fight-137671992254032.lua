@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal Anime Eggs & FIGHT!
+-- PlaceId: 137671992254032
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local uX
 local vE

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Fishing Chef
+-- PlaceId: 88599461076137
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local zZ_1, zZ_6, zZ_8, zZ_10, zZ_15, zZ_17, zZ_22
 local CookingConfig
 local rl

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Hit a Golf Ball
+-- PlaceId: 138363592957250
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local k9
 local kR
 local ly

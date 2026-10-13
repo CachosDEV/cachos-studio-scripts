@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal The Museum
+-- PlaceId: 88237852656234
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local tw
 local tV

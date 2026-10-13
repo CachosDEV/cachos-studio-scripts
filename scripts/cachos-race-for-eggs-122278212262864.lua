@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Race for Eggs
+-- PlaceId: 122278212262864
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local connection
 local yQ

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal a Giant Egg
+-- PlaceId: 136448020793455
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local uh
 local uZ
 local uG

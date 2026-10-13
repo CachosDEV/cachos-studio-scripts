@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Make Hotsauce
+-- PlaceId: 122391683154858
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local f6
 local connection
 local f9

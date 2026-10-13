@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Press a Keycap!
+-- PlaceId: 128363460800653
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Toggles
 local lA

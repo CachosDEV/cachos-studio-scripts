@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Don t Steal the Bobo
+-- PlaceId: 120135584963579
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local CollectAllCash
 local Label
 local ih

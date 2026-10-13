@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Final Swarm
+-- PlaceId: 99521272836282
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local vt_1, vt_3, vt_5, vt_7, vt_9, vt_12, vt_14, vt_15, vt_17, vt_20
 local vt_22_3
 local mY

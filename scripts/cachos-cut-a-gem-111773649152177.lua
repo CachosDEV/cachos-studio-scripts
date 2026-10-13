@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Cut a Gem
+-- PlaceId: 111773649152177
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local ActionsGroup, AutoRebirthGroup, MineAccessGroup, CodesGroup, AutoBuyGeodesGroup, AutoPlaceItemsGroup, AC_47
 local pY

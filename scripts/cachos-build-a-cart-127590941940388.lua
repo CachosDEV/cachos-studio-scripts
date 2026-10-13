@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build A Cart
+-- PlaceId: 127590941940388
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local s0_4, s0_6, s0_11, s0_17, GameInfoGroup, s0_25, s0_27, s0_29, s0_35, s0_39, s0_41
 local k1

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal an Egg for Squishy Dumplings!
+-- PlaceId: 134679507313109
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local yJ
 local yq

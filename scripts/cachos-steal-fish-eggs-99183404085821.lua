@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal Fish Eggs
+-- PlaceId: 99183404085821
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Library
 local o4
 local pM

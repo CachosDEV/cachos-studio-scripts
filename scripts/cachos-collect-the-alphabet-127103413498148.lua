@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Collect The Alphabet
+-- PlaceId: 127103413498148
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local l2
 local k2
 local Toggles

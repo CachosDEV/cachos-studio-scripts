@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anime Girl Paint by Numbers
+-- PlaceId: 129300814231343
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local jW
 local __ouroboros_gen
 local kh

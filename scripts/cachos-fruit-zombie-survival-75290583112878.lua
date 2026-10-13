@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Fruit Zombie Survival
+-- PlaceId: 75290583112878
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local up
 local tp
 local t6

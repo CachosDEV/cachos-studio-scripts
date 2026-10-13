@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Saber Simulator
+-- PlaceId: 3823781113
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local aCe_34, aCe_36, aCe_37, aCe_38, aCe_39, aCe_40, aCe_42, aCe_44, aCe_45, aCe_46, aCe_47, aCe_48, aCe_50, aCe_51, aCe_52, aCe_53, aCe_54, aCe_56, aCe_57, aCe_58, aCe_59, aCe_60, aCe_62, ClientTool, aCe_65, aCe_66, aCe_67, aCe_68, aCe_70, aCe_71, aCe_72, aCe_73, ClientDataManager, aCe_76, aCe_77, aCe_78, aCe_79, aCe_80, aCe_81, aCe_82, aCe_83, aCe_85, aCe_86, aCe_88, aCe_89, aCe_91, aCe_92, aCe_94, aCe_100
 fns.aCe_1 = nil

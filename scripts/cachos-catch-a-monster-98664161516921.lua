@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Catch a Monster
+-- PlaceId: 98664161516921
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local gY
 local g0
 local hm

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Spin a Car
+-- PlaceId: 136758055891411
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local c3
 local PlotUtil
 local UpgradeTreeData

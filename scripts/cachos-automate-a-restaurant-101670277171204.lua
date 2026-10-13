@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Automate a Restaurant
+-- PlaceId: 101670277171204
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local mT
 local nC

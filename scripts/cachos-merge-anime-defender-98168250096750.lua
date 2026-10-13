@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Merge Anime Defender
+-- PlaceId: 98168250096750
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local gt
 local ga
 local gS

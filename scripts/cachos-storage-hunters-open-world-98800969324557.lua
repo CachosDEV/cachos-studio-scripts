@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Storage Hunters Open World
+-- PlaceId: 98800969324557
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 fns.cgs_1 = nil
 fns.cgs_2 = nil

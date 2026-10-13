@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Cars VS Tape
+-- PlaceId: 98393605725180
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local h1
 local hG
 local hn

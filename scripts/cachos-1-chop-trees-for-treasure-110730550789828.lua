@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Chop Trees for Treasure
+-- PlaceId: 110730550789828
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local R4_1, R4_2, R4_3, R4_4, R4_5, R4_7, R4_9, R4_10, R4_12, R4_13, R4_14, R4_16, R4_17, R4_18, CoreGui, R4_20, R4_21, R4_22, R4_23, R4_24, R4_25, R4_31, R4_32, R4_37
 R4_2 = nil

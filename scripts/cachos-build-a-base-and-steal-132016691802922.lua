@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build a Base and Steal
+-- PlaceId: 132016691802922
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Workspace
 local dO
 local dR

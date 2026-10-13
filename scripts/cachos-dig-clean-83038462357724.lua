@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Dig & Clean
+-- PlaceId: 83038462357724
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local GL_2, GL_5, GL_8, GL_9, GL_12, GL_14, GL_15, GL_18
 local GL_10_1, GL_10_3
 local Label

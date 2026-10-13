@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Sail For Eggs
+-- PlaceId: 121443295737695
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local pi
 local p_
 local o_

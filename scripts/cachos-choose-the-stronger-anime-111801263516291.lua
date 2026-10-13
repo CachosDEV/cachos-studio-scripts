@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Choose the Stronger Anime!
+-- PlaceId: 111801263516291
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local connection2
 local connection
 local r9

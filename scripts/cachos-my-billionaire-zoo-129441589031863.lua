@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Billionaire Zoo
+-- PlaceId: 129441589031863
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local sW_1, sW_3, GameInfoGroup, sW_14, sW_15, sW_20
 local lY

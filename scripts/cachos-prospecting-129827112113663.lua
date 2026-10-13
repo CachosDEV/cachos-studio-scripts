@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Prospecting!
+-- PlaceId: 129827112113663
+-- UI: custom ScreenGui
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 fns.dwb_1 = nil
 fns.dwb_2 = nil

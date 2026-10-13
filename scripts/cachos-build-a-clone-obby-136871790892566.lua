@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build A Clone Obby
+-- PlaceId: 136871790892566
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local PlayerGui
 local rf
 local qf

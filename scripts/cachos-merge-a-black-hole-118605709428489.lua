@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Merge a Black Hole
+-- PlaceId: 118605709428489
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Workspace = game:GetService("Workspace")

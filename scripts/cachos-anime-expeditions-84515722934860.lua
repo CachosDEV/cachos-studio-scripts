@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anime Expeditions
+-- PlaceId: 84515722934860
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local bCU_31, bCU_32, TraitData, bCU_37, bCU_38, bCU_39, bCU_40, bCU_42, bCU_43, Window, Actions2, bCU_47, connection, bCU_50, bCU_52, bCU_53, bCU_54, bCU_56, bCU_57, Options, HttpService, Units, bCU_63, bCU_64, Lighting, bCU_67, bCU_69, bCU_70, bCU_72, bCU_73, bCU_74, bCU_75, bCU_77, bCU_78, bCU_79, Toggles, bCU_82, bCU_83, bCU_84, bCU_86, bCU_87, bCU_89, bCU_91, bCU_92, bCU_94, bCU_95, bCU_96, bCU_101, bCU_108, bCU_115
 fns.VirtualUser = nil

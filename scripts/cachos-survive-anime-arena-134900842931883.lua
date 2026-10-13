@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Survive Anime Arena
+-- PlaceId: 134900842931883
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local lB
 local kW
 local UserInputService

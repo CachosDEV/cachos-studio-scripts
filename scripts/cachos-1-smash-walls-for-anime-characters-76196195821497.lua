@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 SMASH Walls For Anime Characters!
+-- PlaceId: 76196195821497
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local l3
 local mL
 local UpgradeShopConfig

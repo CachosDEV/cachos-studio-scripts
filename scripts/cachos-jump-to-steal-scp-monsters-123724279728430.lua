@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Jump To Steal SCP Monsters!
+-- PlaceId: 123724279728430
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local IO_7, IO_9, IO_12, IO_20, IO_22, IO_24, IO_32, IO_35, IO_36
 local uc

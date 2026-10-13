@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Clicker Simulator!
+-- PlaceId: 134719268825886
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local aJS_58, aJS_59, aJS_60, aJS_61, aJS_62, aJS_64, aJS_65, aJS_66, aJS_67, aJS_68, aJS_70, aJS_71, aJS_72, aJS_73, aJS_75, aJS_76, aJS_77, aJS_78, aJS_79, aJS_81, aJS_82, aJS_83, aJS_84, aJS_85, aJS_86, aJS_87, aJS_88, aJS_90, aJS_92, aJS_93, aJS_94, aJS_96, aJS_97, aJS_98, aJS_99, aJS_101, aJS_102, aJS_103, aJS_104, aJS_105, aJS_106, aJS_108, aJS_110
 fns.aJS_2 = nil

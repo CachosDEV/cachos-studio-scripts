@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Farm an Island
+-- PlaceId: 78769336859161
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local VirtualUser
 local Options
 local h1

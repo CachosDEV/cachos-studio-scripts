@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll Anime to Fight!
+-- PlaceId: 107653945083776
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Ux_22, Ux_23, Ux_24, Ux_26, Ux_27, Ux_29, Ux_31, connection2, Ux_34, Ux_35, Ux_39, Ux_43, Ux_47, Ux_51, Ux_56, Ux_60, Ux_65, Ux_69, Ux_74, Ux_78, Ux_83, Ux_90, Ux_98, Ux_103, Ux_107, Ux_112, Ux_121, Ux_125
 fns.Ux_1 = nil

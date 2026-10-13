@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build A Pet Factory
+-- PlaceId: 135729108619936
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local hb
 local hT
 local RebirthMath

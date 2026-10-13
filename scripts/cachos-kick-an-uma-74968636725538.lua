@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Kick an Uma
+-- PlaceId: 74968636725538
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Dr_2, Dr_3, Dr_4, Dr_6, Dr_8, Dr_11, Dr_12, Dr_13, Dr_15
 local tj
 local s0

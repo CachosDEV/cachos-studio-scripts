@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Strength to Grow Your Arm
+-- PlaceId: 86259628805375
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local TV_3, TV_5, TV_6, TV_9, CoreGui, TV_14, TV_17
 TV_3 = nil

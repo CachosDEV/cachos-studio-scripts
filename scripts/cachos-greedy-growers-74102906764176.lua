@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Greedy Growers
+-- PlaceId: 74102906764176
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Ur_31, Ur_34, Ur_38, Ur_40, Ur_43, Ur_49, Ur_52, Ur_57, Ur_60, LimitsGroup, Ur_65, Ur_68, Ur_73, Ur_75, AutoBuyFurnitureGroup, Ur_80, Ur_83, CompostGroup, Ur_88, Ur_91, Ur_96, Ur_100, Ur_105, Ur_109, Ur_113, Ur_117, Ur_119, Ur_122
 fns.Ur_2 = nil

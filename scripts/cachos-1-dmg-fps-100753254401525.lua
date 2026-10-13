@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 DMG FPS
+-- PlaceId: 100753254401525
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local xh
 local xZ
 local wZ

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll to Survive
+-- PlaceId: 132508978828159
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Options
 local k2
 local lr

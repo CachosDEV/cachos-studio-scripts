@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Slime Card Collection
+-- PlaceId: 98951612738714
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local QuestTable, Gk_3, Gk_6, Gk_9, Gk_12, Gk_33, RewardsGroup, GameInfoGroup, Gk_45, FaqGroup, MiscGroup, Gk_61, FeaturesGroup
 QuestTable = nil

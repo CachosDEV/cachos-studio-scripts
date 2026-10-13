@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Toss a Dice
+-- PlaceId: 89614588403906
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local qs_2, qs_3
 local kf
 local jX

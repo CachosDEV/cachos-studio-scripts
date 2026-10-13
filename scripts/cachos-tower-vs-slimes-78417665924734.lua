@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Tower VS Slimes
+-- PlaceId: 78417665924734
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Options
 local LocalPlayer
 local VirtualUser

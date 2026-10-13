@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Backflip for Animals!
+-- PlaceId: 88611017452341
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local FK_7
 local tX

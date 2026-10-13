@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: fisheggs
+-- PlaceId: unrouted
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local ym_2_1, ym_2_3
 local ym_8_1, ym_8_2, ym_8_3, ym_8_4
 local oM

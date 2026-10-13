@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Lucky Train
+-- PlaceId: 122245209010944
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local l4
 local TrainConfig
 local mt

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: helomybrotha
+-- PlaceId: unrouted
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local ClientDataManager
 local xI
 local xp

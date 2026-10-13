@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Karinderya!
+-- PlaceId: 116497287371701
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Fl
 local Gr

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build A Solar Farm
+-- PlaceId: 89790257708758
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local uo
 local t5
 local tN

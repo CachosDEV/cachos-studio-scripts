@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Fish For Junk
+-- PlaceId: 132010220154773
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local p7_10, p7_12
 local kk

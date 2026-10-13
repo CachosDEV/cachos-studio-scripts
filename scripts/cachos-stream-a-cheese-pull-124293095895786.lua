@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Stream A Cheese Pull!
+-- PlaceId: 124293095895786
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local m6
 local mO
 local nc

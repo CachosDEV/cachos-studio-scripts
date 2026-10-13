@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Heroes RNG
+-- PlaceId: 108307565942574
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Shared
 local kW
 local lD

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Race Horses
+-- PlaceId: 79475945127283
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local uu
 local tQ
 local ux

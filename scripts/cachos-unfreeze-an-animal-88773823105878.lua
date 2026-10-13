@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Unfreeze an Animal
+-- PlaceId: 88773823105878
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 if not game:IsLoaded() then
 	game.Loaded:Wait()
 end

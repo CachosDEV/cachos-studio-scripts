@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Dragon Adventures
+-- PlaceId: 3475397644
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local GX_1, GX_2, GX_4, MenuGroup, GX_7, GX_9, GX_10, GX_15
 GX_1 = nil

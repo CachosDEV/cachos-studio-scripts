@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roller for Animals!
+-- PlaceId: 88910662712492
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local wM
 local vM
 local wt

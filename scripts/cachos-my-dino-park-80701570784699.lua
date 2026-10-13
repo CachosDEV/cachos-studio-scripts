@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Dino Park!
+-- PlaceId: 80701570784699
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local h0
 local hF
 local hI

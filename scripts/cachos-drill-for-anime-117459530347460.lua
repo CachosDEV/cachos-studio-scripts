@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Drill for Anime
+-- PlaceId: 117459530347460
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local ReplaceGroup, xf_9, xf_21, SaveManager, xf_25, xf_28, xf_33, xf_37
 local oA

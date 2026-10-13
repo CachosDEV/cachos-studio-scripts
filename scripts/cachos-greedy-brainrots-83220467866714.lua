@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Greedy Brainrots
+-- PlaceId: 83220467866714
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local zW_18, zW_27, zW_41, zW_54, GameInfoGroup
 local pX

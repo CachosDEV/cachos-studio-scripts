@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: 2omething evil will happen
+-- PlaceId: 16991287194
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local ex
 local eb
 local eA

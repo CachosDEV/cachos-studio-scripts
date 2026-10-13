@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Sword RNG X
+-- PlaceId: 88723502997575
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Jm_6, Jm_11
 local wI
 local wp

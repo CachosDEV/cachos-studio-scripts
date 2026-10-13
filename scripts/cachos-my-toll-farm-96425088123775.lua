@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Toll Farm!
+-- PlaceId: 96425088123775
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local s__1, s__3, s__8, s__17, s__19, s__21, s__33, s__34, s__39
 local mL

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Defeat Anime RNG
+-- PlaceId: 92606991708989
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local af7_33, af7_35, af7_36, af7_38, af7_40, af7_41, af7_42, af7_43, af7_44, af7_45, af7_47, af7_48, af7_51, af7_52, af7_53, af7_55, af7_56, af7_58, af7_60, connection5, af7_63, connection2, af7_65, af7_78
 fns.af7_1 = nil

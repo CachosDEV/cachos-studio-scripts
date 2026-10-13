@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Bid for Anime!
+-- PlaceId: 87274635966213
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HttpService = game:GetService("HttpService")

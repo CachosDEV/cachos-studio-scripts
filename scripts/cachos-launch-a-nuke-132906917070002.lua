@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Launch A Nuke!
+-- PlaceId: 132906917070002
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local pg
 local pj
 local o0

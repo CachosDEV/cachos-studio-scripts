@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anime RNG Defense
+-- PlaceId: 104693964860826
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Toggles
 local RollTower
 local cf

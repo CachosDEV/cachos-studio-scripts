@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Bomb Fishing!
+-- PlaceId: 118677256126351
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local j1
 local kK
 local kq

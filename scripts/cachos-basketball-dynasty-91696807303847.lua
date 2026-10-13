@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Basketball Dynasty
+-- PlaceId: 91696807303847
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local y__6, y__7, y__18, y__27, y__28
 local CoreGui
 local GetMarket

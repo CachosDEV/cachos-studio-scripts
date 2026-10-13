@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Break Walls for Brainrots!
+-- PlaceId: 123708462523153
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Bw_2, Bw_3, PlayerPlotGetter, BrainrotSlotObjectGetter, Bw_7, PowerLevelState, BrainrotsCarryState, PowerUpgradesConfig, ItemsState, Bw_13, BrainrotsConfig, Bw_17, Bw_32, Bw_35, Bw_41, Bw_44
 Bw_2 = nil

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Sword Empire
+-- PlaceId: 108364799245223
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local kf
 local jX
 local CurrentCamera

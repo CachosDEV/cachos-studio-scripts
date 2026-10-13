@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Your Lumber Farm!
+-- PlaceId: 84400387456675
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wp_1, wp_3, wp_4, wp_9, wp_12, wp_15, wp_18, wp_20, wp_22, wp_24, wp_27, wp_30, wp_33, RebirthUpgradesGroup, wp_36, wp_39, wp_41, wp_44, wp_47, wp_49, wp_52
 local px

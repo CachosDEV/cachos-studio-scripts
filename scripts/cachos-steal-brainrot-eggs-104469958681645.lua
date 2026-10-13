@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal Brainrot Eggs
+-- PlaceId: 104469958681645
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local tq
 local s7

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Dealership
+-- PlaceId: 115155881139305
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local vy_4, vy_5, vy_11
 local vy_6_1, vy_6_2
 local nm

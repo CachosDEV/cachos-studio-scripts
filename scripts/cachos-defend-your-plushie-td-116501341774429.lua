@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Defend Your Plushie! TD
+-- PlaceId: 116501341774429
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local tQ_8, tQ_18
 local PurchaseWeaponCrate

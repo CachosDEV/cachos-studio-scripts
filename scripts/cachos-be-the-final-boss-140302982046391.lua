@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Be The Final Boss
+-- PlaceId: 140302982046391
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local lL
 local ms
 local l9

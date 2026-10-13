@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Break an Egg!
+-- PlaceId: 128683790553857
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wQ
 local xx

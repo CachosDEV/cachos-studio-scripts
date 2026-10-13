@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Open Sea For Animals!
+-- PlaceId: 88047783411976
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local UpgradeLabels
 local sg
 local rV

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Hatch And Fry!
+-- PlaceId: 124472567087489
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local En_1, En_5, En_6, En_7, En_8
 local tw
 local tC

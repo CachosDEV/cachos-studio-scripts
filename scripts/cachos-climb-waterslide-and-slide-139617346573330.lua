@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Climb Waterslide and Slide
+-- PlaceId: 139617346573330
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Options
 local ik
 local SaveManager

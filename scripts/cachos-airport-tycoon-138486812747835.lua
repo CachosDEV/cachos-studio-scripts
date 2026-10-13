@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Airport Tycoon
+-- PlaceId: 138486812747835
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local kv
 local lc

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 TNT Mining
+-- PlaceId: 101304595834078
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local tM
 local ut
 local tP

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: RNG vs Fruit
+-- PlaceId: 109123260298300
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Network
 local connection2
 local hE

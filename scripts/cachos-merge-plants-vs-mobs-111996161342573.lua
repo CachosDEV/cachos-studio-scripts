@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Merge Plants vs Mobs
+-- PlaceId: 111996161342573
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Net
 local CollectionService
 local VirtualUser

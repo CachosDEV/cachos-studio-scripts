@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build A Golem!
+-- PlaceId: 78091651370612
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local nJ
 local Options
 local nM

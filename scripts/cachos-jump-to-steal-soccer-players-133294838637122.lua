@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Jump To Steal Soccer Players
+-- PlaceId: 133294838637122
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local iU
 local iX
 local iE

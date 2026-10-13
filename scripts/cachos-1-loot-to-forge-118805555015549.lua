@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Loot To Forge
+-- PlaceId: 118805555015549
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Pw_2, Pw_4, Pw_5, Pw_6, Pw_8, Pw_10, Pw_11, Pw_12, Pw_14, Pw_16, Pw_17, Pw_18, Pw_20, Pw_22, Pw_23, Pw_25, Pw_26, Pw_28, Pw_29, Pw_31, Pw_32, Pw_34, Pw_35, Pw_37, Pw_54
 Pw_2 = nil

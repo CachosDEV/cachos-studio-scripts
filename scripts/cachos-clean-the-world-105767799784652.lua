@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Clean the WORLD!
+-- PlaceId: 105767799784652
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local jg
 local jC
 local jj

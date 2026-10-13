@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Penthouse Tycoon
+-- PlaceId: 124943244212764
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local gC
 local UserInputService
 local gF

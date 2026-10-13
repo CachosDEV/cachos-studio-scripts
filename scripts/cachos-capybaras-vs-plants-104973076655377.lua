@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Capybaras VS Plants
+-- PlaceId: 104973076655377
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local adC_8, adC_9, adC_10, adC_14, adC_17, adC_21, adC_26, adC_31, adC_34, adC_39, adC_42, adC_47, adC_50, adC_55, adC_58, adC_59, Plots, connection2, adC_65, adC_67, adC_68, adC_69, Label9, adC_72, adC_74, adC_78, adC_81, adC_97, adC_104, adC_112
 adC_59 = nil

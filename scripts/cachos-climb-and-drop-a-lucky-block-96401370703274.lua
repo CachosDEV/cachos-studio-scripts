@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Climb and Drop a Lucky Block
+-- PlaceId: 96401370703274
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local vu_1, vu_4, vu_5, vu_6
 local mX

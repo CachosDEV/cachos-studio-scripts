@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Defend my Ring Farm
+-- PlaceId: 71245877600560
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local DL_2, DL_12, DL_14, DL_35, DL_37, DL_45, DL_46, DL_49, DL_55, DL_57, DL_58, DL_61, DL_67
 DL_2 = nil

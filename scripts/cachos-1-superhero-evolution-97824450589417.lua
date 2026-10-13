@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: +1 Superhero Evolution
+-- PlaceId: 97824450589417
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wd_2, GameInfoGroup, wd_7, wd_9, wd_11, wd_13, wd_15, wd_26, wd_29, wd_32, wd_34, wd_44, wd_47
 local ol

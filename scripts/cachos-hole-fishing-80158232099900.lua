@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Hole Fishing
+-- PlaceId: 80158232099900
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wU_1, wU_4, wU_7, wU_10, wU_11, wU_13, wU_14, wU_16, wU_19, wU_22, wU_25, wU_27, wU_28, wU_30, wU_31, wU_34, wU_36, wU_38, wU_39, wU_41, wU_42
 local oy

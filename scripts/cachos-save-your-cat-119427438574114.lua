@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Save Your Cat
+-- PlaceId: 119427438574114
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local s__11, s__22
 local me

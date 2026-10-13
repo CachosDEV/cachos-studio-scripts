@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Fish an EGG from Rivers
+-- PlaceId: 101672855717389
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Gt_5, Gt_10, Gt_12, Gt_30
 local tJ

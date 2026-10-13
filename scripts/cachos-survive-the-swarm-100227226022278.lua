@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Survive The Swarm
+-- PlaceId: 100227226022278
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local BO
 local Cv

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Lift a Cube
+-- PlaceId: 109530157755211
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local o2
 local oH
 local om

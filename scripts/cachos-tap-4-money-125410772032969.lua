@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Tap 4 Money
+-- PlaceId: 125410772032969
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local jn
 local jv
 local jq

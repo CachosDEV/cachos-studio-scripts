@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Destroy a House
+-- PlaceId: 125495618008505
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Qn_1, Qn_3, Qn_4, Qn_5, Qn_6, Qn_7, Qn_9, Qn_12, Qn_14, Qn_15, Qn_34
 Qn_1 = nil

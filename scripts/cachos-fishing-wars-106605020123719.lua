@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Fishing Wars
+-- PlaceId: 106605020123719
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local Du_1
 local su
 local tb

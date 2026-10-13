@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal a Baby Egg
+-- PlaceId: 112530679555916
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local z7_7, z7_9, z7_13, z7_15, z7_16, z7_21, z7_23, z7_25, z7_27
 local z7_3_1, z7_3_2, z7_3_4
 local Options

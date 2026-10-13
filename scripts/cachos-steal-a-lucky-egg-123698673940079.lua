@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal A Lucky Egg
+-- PlaceId: 123698673940079
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local x7_3_1, x7_3_5
 local oo
 local oP

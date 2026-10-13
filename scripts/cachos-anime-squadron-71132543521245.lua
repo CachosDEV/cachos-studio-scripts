@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Anime Squadron
+-- PlaceId: 71132543521245
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local LE = getgenv and getgenv().CachosStudioAnimeSquadron
 if LE then
     return

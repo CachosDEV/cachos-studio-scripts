@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal A Verity!
+-- PlaceId: 107164765081465
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local TB_1, TB_3, TB_5, TB_6, TB_7, TB_8, TB_9, folder, TB_12, TB_13, TB_14, TB_15, TB_17, TB_18, TB_22, TB_24, TB_33, TB_34, TB_38
 TB_3 = nil

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Steal An Egg
+-- PlaceId: 107778070777162
+-- UI: custom/no GUI detected
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 -- Cachos Studio :: Steal an Egg support notice
 local Players = game:GetService("Players")
 

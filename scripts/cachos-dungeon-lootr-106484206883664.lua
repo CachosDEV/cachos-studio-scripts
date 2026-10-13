@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Dungeon Lootr
+-- PlaceId: 106484206883664
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local aO8_82, aO8_83, aO8_84, aO8_86, aO8_87, aO8_88, aO8_89, aO8_90, aO8_91, aO8_92, aO8_93, Library, aO8_95, aO8_96, aO8_97, aO8_98, aO8_99, aO8_101, aO8_102, aO8_103, aO8_104, aO8_105, aO8_106, aO8_107, aO8_108, aO8_109, aO8_110, aO8_111, aO8_112, aO8_113, aO8_114, aO8_115, aO8_116, aO8_117, aO8_118, aO8_121, aO8_122, aO8_123, aO8_124, Parry, aO8_126, aO8_127, aO8_128, aO8_129, aO8_130, aO8_131, aO8_132, aO8_133, aO8_134
 fns.aO8_1 = nil

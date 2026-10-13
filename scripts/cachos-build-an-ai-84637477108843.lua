@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build an AI
+-- PlaceId: 84637477108843
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local DonationsGroup, J0_71, J0_94
 fns.J0_2 = nil

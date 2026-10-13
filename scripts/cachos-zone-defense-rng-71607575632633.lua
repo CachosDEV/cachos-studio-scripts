@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Zone Defense RNG
+-- PlaceId: 71607575632633
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local np
 local nO
 local ns

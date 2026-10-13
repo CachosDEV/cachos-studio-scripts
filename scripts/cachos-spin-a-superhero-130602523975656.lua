@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Spin a Superhero!
+-- PlaceId: 130602523975656
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local wS_2, wS_3, wS_4, wS_7, wS_8, wS_11, wS_12, wS_16, wS_17, wS_18, wS_20, GemShopGroup, wS_22, wS_24, wS_25, wS_28, wS_29, wS_32, wS_33, wS_34, wS_35, wS_38, FeaturesGroup, wS_40, wS_43, wS_44, wS_47, wS_48, wS_49, wS_50
 local oQ

@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: My Dancing Animals!
+-- PlaceId: 102602309625870
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Dw_11, ConveyorGroup, Dw_19, Dw_31, Dw_34, Dw_43, Dw_47, Dw_54, Dw_57, Dw_62
 local so

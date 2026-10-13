@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll for Chiikawa !
+-- PlaceId: 79237098587493
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local rN_13
 local km
 local k4

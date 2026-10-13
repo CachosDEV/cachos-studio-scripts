@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll A Gnome
+-- PlaceId: 117539213094671
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local yo_5, yo_7, yo_10, yo_12, yo_14, yo_17, yo_18, yo_19, yo_21, yo_23, UserInputService, yo_26
 local on

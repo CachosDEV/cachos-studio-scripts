@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Build An Ore Farm
+-- PlaceId: 80742451189972
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local w5_1, w5_3, w5_11, w5_12, w5_13, w5_20, w5_22, w5_23, w5_25, w5_32, w5_33
 local oU

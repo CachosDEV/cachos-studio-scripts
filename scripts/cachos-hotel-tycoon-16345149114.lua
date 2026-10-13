@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Hotel Tycoon
+-- PlaceId: 16345149114
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local gV
 local gC
 local hj

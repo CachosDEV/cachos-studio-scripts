@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: RE Heads Please!
+-- PlaceId: 113099333239841
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local kA
 local Data
 local jV

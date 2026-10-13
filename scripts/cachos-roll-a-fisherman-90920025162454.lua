@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Roll a Fisherman
+-- PlaceId: 90920025162454
+-- UI: Obsidian/Cachos Studio
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local pA
 local pW
 local pivot2

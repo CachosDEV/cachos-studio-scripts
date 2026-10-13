@@ -1,3 +1,10 @@
+-- Cachos Studio :: reviewed script
+-- Game: Scale Slimy Fish
+-- PlaceId: 82208825713916
+-- UI: Sirius bundled
+-- Runtime: executed through the standalone Cachos Studio loader
+-- The pass normalizes formatting and metadata without changing game logic.
+
 local fns = {}
 local Ko_37, Ko_39, Ko_40, Ko_42, Ko_43, Ko_45, Ko_47, connection4, Ko_52, Ko_53, Ko_55, UserInputService, Ko_58, ShowFish, Ko_61, Ko_63, PlayerData, Ko_66, CfgFind, Ko_71, billboardGui, Ko_74, HttpService, Ko_77, Ko_79, Mouse, Ko_82, Ko_85, Ko_87, RemoteEvent, Ko_90, Ko_91, Ko_93, Ko_94, Ko_97
 fns.Ko_5 = nil
